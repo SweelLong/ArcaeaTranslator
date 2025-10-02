@@ -1,0 +1,3642 @@
+msgid ""
+msgstr ""
+
+msgid "\n\n\nMemorize them.\n\n\n\n\nYou have %@ seconds."
+msgstr "\n\n\nMemorize them.\n\n\n\n\nYou have %@ seconds."
+
+msgid "\n\nWARNING!\nWarped Shard/Stamina has already been consumed.\nExiting will abandon your Course."
+msgstr "\n\nWARNING!\nWarped Shard/Stamina has already been consumed.\nExiting will abandon your Course."
+
+msgid "\n\nWARNING! Stamina has already been consumed.\nExiting will lose World Mode progress."
+msgstr "\n\nWARNING! Stamina has already been consumed.\nExiting will lose World Mode progress."
+
+msgid " Retry"
+msgstr " Retry"
+
+msgid " Unlock"
+msgstr " Unlock"
+
+msgid "!"
+msgstr "!"
+
+msgid "%1 less than\n\"%2\""
+msgstr "%1 less than\n\"%2\""
+
+msgid "%1 less than\nthe first played"
+msgstr "%1 less than\nthe first played"
+
+msgid "%1 more than\n\"%2\""
+msgstr "%1 more than\n\"%2\""
+
+msgid "%1 more than\nthe first played"
+msgstr "%1 more than\nthe first played"
+
+msgid "%1@ Gain +%2@% World progress,\nx%3@ Recollection Rate loss"
+msgstr "%1@ Gain +%2@% World progress,\nx%3@ Recollection Rate loss"
+
+msgid "%1@ Songs Favorited"
+msgstr "%1@ Songs Favorited"
+
+msgid "%1@ in Act I, Part I must be completed before this story can be unlocked."
+msgstr "%1@ in Act I, Part I must be completed before this story can be unlocked."
+
+msgid "%@\nOR %2@"
+msgstr "%@\nOR %2@"
+
+msgid "%@\nUnlock using %2@ %3@?"
+msgstr "%@\nUnlock using %2@ %3@?"
+
+msgid "%@\nUnlock using Memory Archive Ticket?"
+msgstr "%@\nUnlock using Memory Archive Ticket?"
+
+msgid "%@ %2@ times. %3@"
+msgstr "%@ %2@ times. %3@"
+
+msgid "%@ Fragments"
+msgstr "%@ Fragments"
+
+msgid "%@ Fragments can be periodically converted to stamina."
+msgstr "%@ Fragments can be periodically converted to stamina."
+
+msgid "%@ Minute(s) Until Full"
+msgstr "%@ Minute(s) Until Full"
+
+msgid "%@ OR %2@"
+msgstr "%@ OR %2@"
+
+msgid "%@ Second(s) Until Full"
+msgstr "%@ Second(s) Until Full"
+
+msgid "%@ Steps"
+msgstr "%@ Steps"
+
+msgid "%@ after:"
+msgstr "%@ after:"
+
+msgid "%@ invited you to Link Play"
+msgstr "%@ invited you to Link Play"
+
+msgid "%@ needed:"
+msgstr "%@ needed:"
+
+msgid "%@ seconds remain"
+msgstr "%@ seconds remain"
+
+msgid "%@/%2@ Obtained"
+msgstr "%@/%2@ Obtained"
+
+msgid "%@/%2@ packs unlocked"
+msgstr "%@/%2@ packs unlocked"
+
+msgid "%@/%2@ songs unlocked"
+msgstr "%@/%2@ songs unlocked"
+
+msgid "%@:%2@ Until Full"
+msgstr "%@:%2@ Until Full"
+
+msgid "%@d"
+msgstr "%@d"
+
+msgid "%@d %2@h"
+msgstr "%@d %2@h"
+
+msgid "%@h"
+msgstr "%@h"
+
+msgid "%@h %2@m"
+msgstr "%@h %2@m"
+
+msgid "%@m"
+msgstr "%@m"
+
+msgid "%@s"
+msgstr "%@s"
+
+msgid "%i / %i Steps"
+msgstr "%i / %i Steps"
+
+msgid "( ALL DIFFICULTIES )"
+msgstr "( ALL DIFFICULTIES )"
+
+msgid "+%@ Songs"
+msgstr "+%@ Songs"
+
+msgid "- None -"
+msgstr "- None -"
+
+msgid "1 second remains"
+msgstr "1 second remains"
+
+msgid "5th Anniversary Ticket"
+msgstr "5th Anniversary Ticket"
+
+msgid "???"
+msgstr "???"
+
+msgid "@%d held"
+msgstr "@%d held"
+
+msgid "A Perfect Wish"
+msgstr "A Perfect Wish"
+
+msgid "A failure."
+msgstr "A failure."
+
+msgid "A network error has occurred.\nPlease re-enter Axiom of the End."
+msgstr "A network error has occurred.\nPlease re-enter Axiom of the End."
+
+msgid "A network error has occurred.\nThe song could not be started online.\nPlease check your network and try again, or continue offline.\n"
+msgstr "A network error has occurred.\nThe song could not be started online.\nPlease check your network and try again, or continue offline.\n"
+
+msgid "A network error has occurred. Please try again.\nError Code: %1@"
+msgstr "A network error has occurred. Please try again.\nError Code: %1@"
+
+msgid "A new content update is available\n%1@MB will be downloaded."
+msgstr "A new content update is available\n%1@MB will be downloaded."
+
+msgid "A new content update is required. Returning to title screen."
+msgstr "A new content update is required. Returning to title screen."
+
+msgid "A new verification email has been sent\nto the registered address."
+msgstr "A new verification email has been sent\nto the registered address."
+
+msgid "A new version of Arcaea is available from the App Store.\nPlease update to the latest version."
+msgstr "The latest version of Arcase can now be obtained through QQ groups,\nPlease upgrade the game to the latest version first."
+
+msgid "A new version of Arcaea is available on Google Play.\nPlease update to the latest version."
+msgstr "The latest version of Arcase can now be obtained through QQ groups,\nPlease upgrade the game to the latest version first."
+
+msgid "A new version of Arcaea is available to download.\nPlease update to the latest version."
+msgstr "The latest version of Arcase has been released,\nPlease upgrade the game to the latest version first."
+
+msgid "A power forbidden to all but one."
+msgstr "A power forbidden to all but one."
+
+msgid "A problem occurred updating data..."
+msgstr "A problem occurred updating data..."
+
+msgid "A rising tension"
+msgstr "A rising tension"
+
+msgid "A song at the start of time"
+msgstr "A song at the start of time"
+
+msgid "A tempest descends"
+msgstr "A tempest descends"
+
+msgid "A temporary hold has been placed on your account.\nPlease visit the official website to resolve the issue."
+msgstr "A temporary hold has been placed on your account.\nPlease visit the official website to resolve the issue."
+
+msgid "AFFINITY"
+msgstr "AFFINITY"
+
+msgid "AUDIO - Ad-lib effects on hitting floor lanes\nwhen playing a %2@ song"
+msgstr "AUDIO - Ad-lib effects on hitting floor lanes\nwhen playing a %2@ song"
+
+msgid "Abandon Course"
+msgstr "Abandon Course"
+
+msgid "Abandon Song"
+msgstr "Abandon Song"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Account Created"
+msgstr "Account Created"
+
+msgid "Account Management"
+msgstr "Account Management"
+
+msgid "Account deletion email has been sent."
+msgstr "Account deletion email has been sent."
+
+msgid "Achieve a high Recollection Rate on %1@ with %2@"
+msgstr "Achieve a high Recollection Rate on %1@ with %2@"
+
+msgid "Achieve a high Recollection Rate on %1@ with %2@ sealed"
+msgstr "Achieve a high Recollection Rate on %1@ with %2@ sealed"
+
+msgid "Achievements"
+msgstr "Achievements"
+
+msgid "Acid"
+msgstr "Acid"
+
+msgid "Act I"
+msgstr "Act I"
+
+msgid "Act II"
+msgstr "Act II"
+
+msgid "Activate"
+msgstr "Activate"
+
+msgid "Activate Memory Boost using Ticket?"
+msgstr "Activate Memory Boost using Ticket?"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add Friends"
+msgstr "Add Friends"
+
+msgid "Adjust display speed\nof Story text"
+msgstr "Adjust display speed\nof Story text"
+
+msgid "Adjust the position of\nlate/early timing display"
+msgstr "Adjust the position of\nlate/early timing display"
+
+msgid "Adjust the synchronization\nof music"
+msgstr "Adjust the synchronization\nof music"
+
+msgid "Adjust the volume\nof note sound effects"
+msgstr "Adjust the volume\nof note sound effects"
+
+msgid "Adjust where the FR/PM\nindicators display"
+msgstr "Adjust where the FR/PM\nindicators display"
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Advanced Tutorial"
+msgstr "Advanced Tutorial"
+
+msgid "Affinity"
+msgstr "Affinity"
+
+msgid "After finishing a song,\nretry and clear it"
+msgstr "After finishing a song,\nretry and clear it"
+
+msgid "After finishing a song,\n"
+msgstr "After finishing a song,\n"
+
+msgid "Ai-chan"
+msgstr "Ai-chan"
+
+msgid "Alice & Tenniel"
+msgstr "Alice & Tenniel"
+
+msgid "All Songs"
+msgstr "All Songs"
+
+msgid "All songs are already downloaded!"
+msgstr "All songs are already downloaded!"
+
+msgid "All songs downloaded successfully."
+msgstr "All songs downloaded successfully."
+
+msgid "Allow other players to be matched into this room\nby setting it to Public?"
+msgstr "Allow other players to be matched into this room\nby setting it to Public?"
+
+msgid "Alluring Core"
+msgstr "Alluring Core"
+
+msgid "Alternatively, quickly toggle between categories\nby tapping the left category buttons. "
+msgstr "Alternatively, quickly toggle between categories\nby tapping the left category buttons. "
+
+msgid "Alternatively, use a code to join an existing room."
+msgstr "Alternatively, use a code to join an existing room."
+
+msgid "Amane"
+msgstr "Amane"
+
+msgid "Ambivalent Core"
+msgstr "Ambivalent Core"
+
+msgid "An account has already been made from this device."
+msgstr "An account has already been made from this device."
+
+msgid "An account registration is already pending for this device.\nStart a new registration?"
+msgstr "An account registration is already pending for this device.\nStart a new registration?"
+
+msgid "An email with a verification link has been\nsent to your registered email address.\nTo complete account verification, please\nfollow the instructions outlined in this email."
+msgstr "An email with a verification link has been\nsent to your registered email address.\nTo complete account verification, please\nfollow the instructions outlined in this email."
+
+msgid "An error occurred completing purchases.\nPlease try restarting your device or Arcaea\nand ensuring that you're logged in to %@."
+msgstr "An error occurred completing purchases.\nPlease try restarting your device or Arcaea\nand ensuring that you're logged in to %@."
+
+msgid "An error occurred downloading the song. Please try again."
+msgstr "An error occurred downloading the song. Please try again."
+
+msgid "An error occurred redeeming your purchase.\nPlease check your internet connection and\nattempt tapping 'Complete Purchase'.\n\nContact support@lowiro.com if this error persists."
+msgstr "An error occurred redeeming your purchase.\nPlease check your internet connection and\nattempt tapping 'Complete Purchase'.\n\nContact support@lowiro.com if this error persists."
+
+msgid "An error occurred using Memory Boost Ticket."
+msgstr "An error occurred using Memory Boost Ticket."
+
+msgid "An unknown error has occurred."
+msgstr "An unknown error has occurred."
+
+msgid "And now, the end"
+msgstr "And now, the end"
+
+msgid "Apophenia"
+msgstr "Apophenia"
+
+msgid "Apply yourself. You understand \"value\" best, don't you?\nEach song you remember has been assigned a value. Remember their worth.\n\n\nBring them here and with their values, answer.\nDo not delay.\n"
+msgstr "Apply yourself. You understand \"value\" best, don't you?\nEach song you remember has been assigned a value. Remember their worth.\n\n\nBring them here and with their values, answer.\nDo not delay.\n"
+
+msgid "Arc notes can also turn into Traces.\nYou don't need to touch traces."
+msgstr "Arc notes can also turn into Traces.\nYou don't need to touch traces."
+
+msgid "Arc notes can reappear during Traces.\nTouch and hold them as before."
+msgstr "Arc notes can reappear during Traces.\nTouch and hold them as before."
+
+msgid "Arcaea"
+msgstr "Arcase"
+
+msgid "Arcaea sends notifications when your World Mode stamina is full,"
+msgstr "Arcaea sends notifications when your World Mode stamina is full,"
+
+msgid "Arcaea's story is bundled with certain song packs."
+msgstr "Arcaea's story is bundled with certain song packs."
+
+msgid "Archive"
+msgstr "Archive"
+
+msgid "Archive Story"
+msgstr "Archive Story"
+
+msgid "Are you sure you want to download data from Cloud?"
+msgstr "Are you sure you want to download data from Cloud?"
+
+msgid "Are you sure you want to overwrite your Cloud Save?"
+msgstr "Are you sure you want to overwrite your Cloud Save?"
+
+msgid "Are you sure you want to remove '%@'?"
+msgstr "Are you sure you want to remove '%@'?"
+
+msgid "Areus"
+msgstr "Areus"
+
+msgid "Aria"
+msgstr "Aria"
+
+msgid "Article I"
+msgstr "Article I"
+
+msgid "Article II"
+msgstr "Article II"
+
+msgid "Article III"
+msgstr "Article III"
+
+msgid "Article IV"
+msgstr "Article IV"
+
+msgid "Artist"
+msgstr "Artist"
+
+msgid "Ascendant - 6th Seeker"
+msgstr "Ascendant - 6th Seeker"
+
+msgid "Ascendant - 8th Seeker"
+msgstr "Ascendant - 8th Seeker"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Audio Preset"
+msgstr "Audio Preset"
+
+msgid "Audio offset is used to compensate for delays\nplaying back audio on your device.\n\nIf you are EARLY adjust down (-)  If you are LATE adjust up (+)\n\nWireless headphones may increase your offset\nby 200 milliseconds or more."
+msgstr "Audio offset is used to compensate for delays\nplaying back audio on your device.\n\nIf you are EARLY adjust down (-)  If you are LATE adjust up (+)\n\nWireless headphones may increase your offset\nby 200 milliseconds or more."
+
+msgid "Available"
+msgstr "Available"
+
+msgid "Available now"
+msgstr "Available now"
+
+msgid "Awaken"
+msgstr "Awaken"
+
+msgid "Axium"
+msgstr "Axium"
+
+msgid "Ayu"
+msgstr "Ayu"
+
+msgid "Azure"
+msgstr "Tianqing"
+
+msgid "BALANCE"
+msgstr "BALANCE"
+
+msgid "BEYOND"
+msgstr "BEYOND"
+
+msgid "BEYOND\nTOTAL"
+msgstr "BEYOND\nTOTAL"
+
+msgid "BEYOND CHALLENGE - FAR notes decrease Recollection Rate"
+msgstr "BEYOND CHALLENGE - FAR notes decrease Recollection Rate"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Basic"
+msgstr "Basic"
+
+msgid "Be absolute: what you have\nrelied on until now will be ruined."
+msgstr "Be absolute: what you have\nrelied on until now will be ruined."
+
+msgid "Begin the \"Arcaea\"\nprologue in Story Mode"
+msgstr "Activate in story mode\nIntroduction to Arcase"
+
+msgid "Beginnings"
+msgstr "Beginnings"
+
+msgid "Beyond"
+msgstr "Beyond"
+
+msgid "Beyond\nBoost"
+msgstr "Beyond\nBoost"
+
+msgid "Beyond Boost"
+msgstr "Beyond Boost"
+
+msgid "Binary Core"
+msgstr "Binary Core"
+
+msgid "Bonus"
+msgstr "Bonus"
+
+msgid "Boost"
+msgstr "Boost"
+
+msgid "Boost Activated!"
+msgstr "Boost Activated!"
+
+msgid "Boost Active"
+msgstr "Boost Active"
+
+msgid "Boosted progress"
+msgstr "Boosted progress"
+
+msgid "Boosts"
+msgstr "Boosts"
+
+msgid "Bottom"
+msgstr "Bottom"
+
+msgid "Boundless Divide"
+msgstr "Boundless Divide"
+
+msgid "Brillante"
+msgstr "Brillante"
+
+msgid "Bundle price"
+msgstr "Bundle price"
+
+msgid "CANCEL"
+msgstr "CANCEL"
+
+msgid "CHALLENGE"
+msgstr "CHALLENGE"
+
+msgid "CHUNITHM + HARD - STEP and OVER\nincreased by 2 per each full gauge"
+msgstr "CHUNITHM + HARD - STEP and OVER\nincreased by 2 per each full gauge"
+
+msgid "CHUNITHM - Clear Requirement: 7"
+msgstr "CHUNITHM - Clear Requirement: 7"
+
+msgid "CHUNITHM Core"
+msgstr "CHUNITHM Core"
+
+msgid "CLEAR"
+msgstr "CLEAR"
+
+msgid "CONFLICT - Reverse the paradigms\nof Light and Conflict."
+msgstr "CONFLICT - Reverse the paradigms\nof Light and Conflict."
+
+msgid "CREATOR"
+msgstr "CREATOR"
+
+msgid "Cadenza"
+msgstr "Cadenza"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Cancel Search"
+msgstr "Cancel Search"
+
+msgid "Cancel searching for a public Link Play room?"
+msgstr "Cancel searching for a public Link Play room?"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Caution"
+msgstr "Caution"
+
+msgid "Challenge"
+msgstr "Challenge"
+
+msgid "Challenge[ALTEREGO]"
+msgstr "Challenge[ALTEREGO]"
+
+msgid "Change your Partner"
+msgstr "Change your Partner"
+
+msgid "Chapter"
+msgstr "Chapter"
+
+msgid "Check Status"
+msgstr "Check Status"
+
+msgid "Chinatsu"
+msgstr "Chinatsu"
+
+msgid "Choose a Tutorial to play."
+msgstr "Choose a Tutorial to play."
+
+msgid "Choose a song difficulty and select Ready"
+msgstr "Choose a song difficulty and select Ready"
+
+msgid "Choose how to pause\nor disable pausing"
+msgstr "Choose how to pause\nor disable pausing"
+
+msgid "Chuni Penguin"
+msgstr "Chuni Penguin"
+
+msgid "Claim"
+msgstr "Claim"
+
+msgid "Claim All"
+msgstr "Claim All"
+
+msgid "Clean Up"
+msgstr "Clean Up"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Clear #1f1e33"
+msgstr "Clear #1f1e33"
+
+msgid "Clear %1@ %2@ songs"
+msgstr "Clear %1@ %2@ songs"
+
+msgid "Clear %1@ %2@ songs (%3@/%1@)"
+msgstr "Clear %1@ %2@ songs (%3@/%1@)"
+
+msgid "Clear %1@ %2@ songs with Grade %4@ or above"
+msgstr "Clear %1@ %2@ songs with Grade %4@ or above"
+
+msgid "Clear %1@ %2@ songs with Grade %4@ or above (%3@/%1@)"
+msgstr "Clear %1@ %2@ songs with Grade %4@ or above (%3@/%1@)"
+
+msgid "Clear %1@ %2@ with a Full Recall"
+msgstr "Clear %1@ %2@ with a Full Recall"
+
+msgid "Clear %1@ level %2@ songs"
+msgstr "Clear %1@ level %2@ songs"
+
+msgid "Clear %1@ level %2@ songs (%3@/%1@)"
+msgstr "Clear %1@ level %2@ songs (%3@/%1@)"
+
+msgid "Clear %1@ level %2@ songs with Grade %4@ or above"
+msgstr "Clear %1@ level %2@ songs with Grade %4@ or above"
+
+msgid "Clear %1@ level %2@ songs with Grade %4@ or above (%3@/%1@)"
+msgstr "Clear %1@ level %2@ songs with Grade %4@ or above (%3@/%1@)"
+
+msgid "Clear %@ %2@"
+msgstr "Clear %@ %2@"
+
+msgid "Clear %@ %2@ with Grade %3@ or above"
+msgstr "Clear %@ %2@ with Grade %3@ or above"
+
+msgid "Clear '%1@' with '%2@'\nto unlock this story."
+msgstr "Clear '%1@' with '%2@'\nto unlock this story."
+
+msgid "Clear '%@' to unlock this story."
+msgstr "Clear '%@' to unlock this story."
+
+msgid "Clear 1 song each from\nVersions 1 to 4 in order"
+msgstr "Clear 1 song each from\nVersions 1 to 4 in order"
+
+msgid "Clear Equilibrium, Antagonism,\nand Dantalion in sequence"
+msgstr "Clear Equilibrium, Antagonism,\nand Dantalion in sequence"
+
+msgid "Clear a Course\nin Course Mode"
+msgstr "Clear a Course\nin Course Mode"
+
+msgid "Clear a song on\nany difficulty"
+msgstr "Clear a song on\nany difficulty"
+
+msgid "Clear a song on PRS\ndifficulty or higher"
+msgstr "Clear a song on PRS\ndifficulty or higher"
+
+msgid "Clear a song using\nTempest Tairitsu"
+msgstr "Clear a song using\nTempest Tairitsu"
+
+msgid "Clear a song while each digit\nof your Fragments is odd"
+msgstr "Clear a song while each digit\nof your Fragments is odd"
+
+msgid "Clear a song with 0 LOSTs"
+msgstr "Clear a song with 0 LOSTs"
+
+msgid "Clear an anomaly or terminal\nsong with its jacket's Partner"
+msgstr "Clear an anomaly or terminal\nsong with its jacket's Partner"
+
+msgid "Clear any song to unlock this story."
+msgstr "Clear any song to unlock this story."
+
+msgid "Clear any song with '%1@'\nto unlock this story."
+msgstr "Clear any song with '%1@'\nto unlock this story."
+
+msgid "Clear the first song of\nFinal Verdict"
+msgstr "Clear the first song of\nFinal Verdict"
+
+msgid "Clear three songs of\nincreasing level in a row"
+msgstr "Clear three songs of\nincreasing level in a row"
+
+msgid "Clear with AA grade 5 times"
+msgstr "Clear with AA grade 5 times"
+
+msgid "Clear with EX grade 5 times"
+msgstr "Clear with EX grade 5 times"
+
+msgid "Clear with a 'HARD' skill"
+msgstr "Clear with a 'HARD' skill"
+
+msgid "Clear with over 300 max combo"
+msgstr "Clear with over 300 max combo"
+
+msgid "Clear  from\n 1 to 4 "
+msgstr "Clear  from\n 1 to 4 "
+
+msgid "Cloud Sync"
+msgstr "Cloud Sync"
+
+msgid "Cloud save data is from a different device.\nPlease choose how to proceed:"
+msgstr "Cloud save data is from a different device.\nPlease choose how to proceed:"
+
+msgid "Cloud save downloaded successfully!"
+msgstr "Cloud save downloaded successfully!"
+
+msgid "Cloud save uploaded successfully!"
+msgstr "Cloud save uploaded successfully!"
+
+msgid "Code:"
+msgstr "Code:"
+
+msgid "Collaboration"
+msgstr "Collaboration"
+
+msgid "Colorblind Mode"
+msgstr "Colorblind Mode"
+
+msgid "Colorful Core"
+msgstr "Colorful Core"
+
+msgid "Combo"
+msgstr "Combo"
+
+msgid "Coming Soon"
+msgstr "Coming Soon"
+
+msgid "Compassion"
+msgstr "Compassion"
+
+msgid "Complete"
+msgstr "Complete"
+
+msgid "Complete Arcaea's\nbeginner tutorial"
+msgstr "Complete Arcaea's\nbeginner tutorial"
+
+msgid "Complete Purchase"
+msgstr "Complete Purchase"
+
+msgid "Complete a song with\nan EX grade or higher"
+msgstr "Complete a song with\nan EX grade or higher"
+
+msgid "Complete all Missions\nin Tier %@"
+msgstr "Complete all Missions\nin Tier %@"
+
+msgid "Complete previous Tier\nto unlock this Mission"
+msgstr "Complete previous Tier\nto unlock this Mission"
+
+msgid "Complete the \"Arcaea\"\nprologue in Story Mode"
+msgstr "Complete the story mode\nIntroduction to Arcase"
+
+msgid "Complete the challenge on %@"
+msgstr "Complete the challenge on %@"
+
+msgid "Complete Black Fate and see VS-8 to progress to this Pack"
+msgstr "Thank you for playing Arcase server. Please look forward to more music packages!"
+
+msgid "Complete[REMOVE_FOR_MISSIONS]"
+msgstr "Complete[REMOVE_FOR_MISSIONS]"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "Confirm Cloud Overwrite"
+msgstr "Confirm Cloud Overwrite"
+
+msgid "Confirm Data Download"
+msgstr "Confirm Data Download"
+
+msgid "Confirm Difficulty"
+msgstr "Confirm Difficulty"
+
+msgid "Confirm[ALTEREGO]"
+msgstr "Confirm[ALTEREGO]"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+msgid "Contemplate finality"
+msgstr "Contemplate finality"
+
+msgid "Continue"
+msgstr "Continue"
+
+msgid "Continue "
+msgstr "Continue "
+
+msgid "Continue Matching"
+msgstr "Continue Matching"
+
+msgid "Continue Offline"
+msgstr "Continue Offline"
+
+msgid "Continue[STORY]"
+msgstr "Continue[STORY]"
+
+msgid "Control the speed at\nwhich notes approach"
+msgstr "Control the speed at\nwhich notes approach"
+
+msgid "Could not connect to Store.\nPlease check your device settings."
+msgstr "Thank you for playing Arcase!\nPlease provide timely feedback if you encounter any problems."
+
+msgid "Could not connect to online server."
+msgstr "Could not connect to online server."
+
+msgid "Course Mode"
+msgstr "Course Mode"
+
+msgid "Course has been abandoned"
+msgstr "Course has been abandoned"
+
+msgid "Create Account"
+msgstr "Create Account"
+
+msgid "Create an account"
+msgstr "Create an account"
+
+msgid "Create or join a room where up to 4 players\ncan simultaneously play any song in Arcaea."
+msgstr "In online mode, players can play Arcase online by creating or joining rooms,\nEach room can accommodate up to four players simultaneously."
+
+msgid "Crimson Core"
+msgstr "Crimson Core"
+
+msgid "Current Progress"
+msgstr "Current Progress"
+
+msgid "DATA IN CLOUD"
+msgstr "DATA IN CLOUD"
+
+msgid "DATA ON DEVICE"
+msgstr "DATA ON DEVICE"
+
+msgid "DISABLED"
+msgstr "DISABLED"
+
+msgid "DORO*C"
+msgstr "DORO*C"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Day / Night appearance\nwhen playing a %@ song"
+msgstr "Day / Night appearance\nwhen playing a %@ song"
+
+msgid "Decline"
+msgstr "Decline"
+
+msgid "Decline[INVITE]"
+msgstr "Decline[INVITE]"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete Account"
+msgstr "Delete Account"
+
+msgid "Delete all downloaded songs?\nThey can be downloaded again at any time."
+msgstr "Delete all downloaded songs?\nThey can be downloaded again at any time."
+
+msgid "Delete complete."
+msgstr "Delete complete."
+
+msgid "Desolate Core"
+msgstr "Desolate Core"
+
+msgid "Device limit reached."
+msgstr "Device limit reached."
+
+msgid "Difficulty"
+msgstr "Difficulty"
+
+msgid "Difficulty can be changed later"
+msgstr "Difficulty can be changed later"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Disabling note sounds may greatly change perceived offset.\nYou will need to re-calibrate your offset after doing so."
+msgstr "Disabling note sounds may greatly change perceived offset.\nYou will need to re-calibrate your offset after doing so."
+
+msgid "Disconnected from Link Play"
+msgstr "Disconnected from Link Play"
+
+msgid "Disconnecting in..."
+msgstr "Disconnecting in..."
+
+msgid "Discover a song\nthrough World Mode"
+msgstr "Discover a song\nthrough World Mode"
+
+msgid "Display a visual effect\non screen touch"
+msgstr "Display a visual effect\non screen touch"
+
+msgid "Display furigana\nfor story text"
+msgstr "Display furigana\nfor story text"
+
+msgid "Does not expire."
+msgstr "Does not expire."
+
+msgid "Don't be led astray by Illusions."
+msgstr "Don't be led astray by Illusions."
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Dormant Echoes"
+msgstr "Dormant Echoes"
+
+msgid "Double Tap"
+msgstr "Double Tap"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Download \"%@\"?"
+msgstr "Download \"%@\"?"
+
+msgid "Download '%1@' Pack?\nEstimated size: %2@MB+"
+msgstr "Download '%1@' Pack?\nEstimated size: %2@MB+"
+
+msgid "Download All"
+msgstr "Download All"
+
+msgid "Download Pack?\nEstimated size: %2@MB+"
+msgstr "Download Pack?\nEstimated size: %2@MB+"
+
+msgid "Download all owned songs?\nThis will take a while.\n\nSignificant data charges will be incurred on a cellular plan."
+msgstr "Download all owned songs?\nThis will take a while.\n\nSignificant data charges will be incurred on a cellular plan."
+
+msgid "Download song?"
+msgstr "Download song?"
+
+msgid "Download song?\n%@"
+msgstr "Download song?\n%@"
+
+msgid "Download songs for course mode?"
+msgstr "Download songs for course mode?"
+
+msgid "Download was cancelled."
+msgstr "Download was cancelled."
+
+msgid "Downloading"
+msgstr "Downloading"
+
+msgid "Downloading %@%..."
+msgstr "Downloading %@%..."
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Downloads all owned songs to this device."
+msgstr "Downloads all owned songs to this device."
+
+msgid "Due to a user refund of spent Memories, your account\nhas been restricted, and purchased content is frozen.\n\nPlease be aware that refunding purchases\nis against Arcaea's Terms of Service.\n\nIn order to reinstate your account, please re-purchase\nrefunded Memories until they are no longer in deficit."
+msgstr "Due to users refunding used memory source points,\nYour account has been restricted and all purchased content will be frozen.\n\nPlease note that refund behavior violates Arcase's terms of service.\n\nIf you want to restore your account,\nPlease repurchase the memory source point until it can completely fill the previous gap."
+
+msgid "E/S Primera"
+msgstr "E/S Primera"
+
+msgid "EASY + All Notes and Arcs reversed"
+msgstr "EASY + All Notes and Arcs reversed"
+
+msgid "EASY + Earn +%@ Fragments\nwhen playing a %2@ song"
+msgstr "EASY + Earn +%@ Fragments\nwhen playing a %2@ song"
+
+msgid "EASY + Pay %@ Fragments on start\nThis skill changes during the night"
+msgstr "EASY + Pay %@ Fragments on start\nThis skill changes during the night"
+
+msgid "EASY + Recollection Rate cannot decrease\nRecollection Rate gain is heavily reduced"
+msgstr "EASY + Recollection Rate cannot decrease\nRecollection Rate gain is heavily reduced"
+
+msgid "EASY - Recollection Gauge starts at %@%\nReduced Recollection Rate gain per note"
+msgstr "EASY - Recollection Gauge starts at %@%\nReduced Recollection Rate gain per note"
+
+msgid "EASY - Recollection Rate loss reduced\nfor LOST notes"
+msgstr "EASY - Recollection Rate loss reduced\nfor LOST notes"
+
+msgid "EVENT"
+msgstr "EVENT"
+
+msgid "Earn +%@ Fragment(s)\nfor each %2@ combo reached"
+msgstr "Earn +%@ Fragment(s)\nfor each %2@ combo reached"
+
+msgid "Earn +%@ Fragments\nupon clearing a preferred song"
+msgstr "Earn +%@ Fragments\nupon clearing a preferred song"
+
+msgid "Earn +%@ Fragments\nwhen playing a Conflict Side song"
+msgstr "Earn +%@ Fragments\nwhen playing a Conflict Side song"
+
+msgid "Earn +%@ Fragments\nwhen playing a Light Side song"
+msgstr "Earn +%@ Fragments\nwhen playing a Light Side song"
+
+msgid "Earn +%@ Fragments\nwhen playing a Stellights song"
+msgstr "Earn +%@ Fragments\nwhen playing a Stellights song"
+
+msgid "Earn +%@ Fragments (increases for each\nconsecutive play with other Partners)"
+msgstr "Earn +%@ Fragments (increases for each\nconsecutive play with other Partners)"
+
+msgid "Earn +%@ Fragments (increases for each\nconsecutive play with this Partner)"
+msgstr "Earn +%@ Fragments (increases for each\nconsecutive play with this Partner)"
+
+msgid "Earn +%@ Fragments for achieving\n%2@ grade or above"
+msgstr "Earn +%@ Fragments for achieving\n%2@ grade or above"
+
+msgid "Earn +%@ Fragments on\nPure Memory (Max Score)"
+msgstr "Earn +%@ Fragments on\nPure Memory (Max Score)"
+
+msgid "Earn 1 Fragment per %@ PURE notes\nLose 1 Fragment per LOST note"
+msgstr "Earn 1 Fragment per %@ PURE notes\nLose 1 Fragment per LOST note"
+
+msgid "Earn up to +%2@ Fragments based on Max Recall\nEarn +%@ Fragments on Clear"
+msgstr "Earn up to +%2@ Fragments based on Max Recall\nEarn +%@ Fragments on Clear"
+
+msgid "Earn up to +%@% Fragments\nbased on score"
+msgstr "Earn up to +%@% Fragments\nbased on score"
+
+msgid "Earn up to 20 Fragments based on\nnumber of notes hit"
+msgstr "Earn up to 20 Fragments based on\nnumber of notes hit"
+
+msgid "Easy"
+msgstr "Easy"
+
+msgid "Elapsed time: %@"
+msgstr "Elapsed time: %@"
+
+msgid "Elegy"
+msgstr "Elegy"
+
+msgid "Email (confirm)"
+msgstr "Email (confirm)"
+
+msgid "Email address"
+msgstr "Email address"
+
+msgid "Email does not match"
+msgstr "Email does not match"
+
+msgid "Email, ID or Username"
+msgstr "Email, ID or Username"
+
+msgid "Enable Timer"
+msgstr "Enable Timer"
+
+msgid "Enable to change\nArc colors"
+msgstr "Enable to change\nArc colors"
+
+msgid "Enable to include\nlate/early 'Pure' timings"
+msgstr "Enable to include\nlate/early 'Pure' timings"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "Ended"
+msgstr "Ended"
+
+msgid "Enter a Public room to join matchmaking with other online players,\nor open a Private room to invite friends."
+msgstr "Enter a Public room to join matchmaking with other online players,\nor open a Private room to invite friends."
+
+msgid "Enter room code"
+msgstr "Enter room code"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error updating the room with new purchase."
+msgstr "Error updating the room with new purchase."
+
+msgid "Ether Drop"
+msgstr "Ether Drop"
+
+msgid "Ether Drops"
+msgstr "Ether Drops"
+
+msgid "Ether Drops to spend"
+msgstr "Ether Drops to spend"
+
+msgid "Eto"
+msgstr "Eto"
+
+msgid "Eto & Hoppe"
+msgstr "Eto & Hoppe"
+
+msgid "Eto & Luna"
+msgstr "Eto & Luna"
+
+msgid "Etude"
+msgstr "Etude"
+
+msgid "Evanescent Domain"
+msgstr "Evanescent Domain"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Experience Aegleseeker"
+msgstr "Experience Aegleseeker"
+
+msgid "Experience Arghena"
+msgstr "Experience Arghena"
+
+msgid "Experience Designant."
+msgstr "Experience Designant."
+
+msgid "Expires in %@"
+msgstr "Expires in %@"
+
+msgid "Explore Arcaea, and on your journey fulfill missions to unlock rewards."
+msgstr "Complete tasks and unlock rewards on the journey of exploring Arcase!"
+
+msgid "Extend"
+msgstr "Extend"
+
+msgid "Extend Friend Limit"
+msgstr "Extend Friend Limit"
+
+msgid "FAVORITES"
+msgstr "FAVORITES"
+
+msgid "FEVER GAUGE + Earn 1 Fragment when\nFEVER reaches x5"
+msgstr "FEVER GAUGE + Earn 1 Fragment when\nFEVER reaches x5"
+
+msgid "FEVER GAUGE + HARD - Recollection Rate gain\nreduced when FEVER is low"
+msgstr "FEVER GAUGE + HARD - Recollection Rate gain\nreduced when FEVER is low"
+
+msgid "FEVER Gauge + World progress increased based\non PURE note count and FEVER level"
+msgstr "FEVER Gauge + World progress increased based\non PURE note count and FEVER level"
+
+msgid "FIRST CLEAR"
+msgstr "FIRST CLEAR"
+
+msgid "FR"
+msgstr "FR"
+
+msgid "FR/PM Indicator"
+msgstr "FR/PM Indicator"
+
+msgid "FRAGMENTS"
+msgstr "FRAGMENTS"
+
+msgid "FREE TO PLAY"
+msgstr "FREE TO PLAY"
+
+msgid "Face the songs you have already confronted and find a way forward."
+msgstr "Face the songs you have already confronted and find a way forward."
+
+msgid "Failed to get the latest content information.\nPlease check your internet connection. Error Code: %1@"
+msgstr "Failed to get the latest content information.\nPlease check your internet connection. Error Code: %1@"
+
+msgid "Fantasia"
+msgstr "Fantasia"
+
+msgid "Fast"
+msgstr "Fast"
+
+msgid "Fatalis"
+msgstr "Fatalis"
+
+msgid "Favorite each Tairitsu,\nclear Her song with Her"
+msgstr "Favorite each Tairitsu,\nclear Her song with Her"
+
+msgid "Find the new Map in Chapter 5 of World Mode"
+msgstr "Find the new Map in Chapter 5 of World Mode"
+
+msgid "Find the path to a different future"
+msgstr "Find the path to a different future"
+
+msgid "Finish"
+msgstr "Finish"
+
+msgid "Finish a song while only getting\nall PUREs, FARs, or LOSTs"
+msgstr "Finish a song while only getting\nall PUREs, FARs, or LOSTs"
+
+msgid "Finish a song while only getting\nall "
+msgstr "Finish a song while only getting\nall "
+
+msgid "Finish a song with a\n1.2x or higher Partner\nfragment multiplier"
+msgstr "Finish a song with a\n1.2x or higher Partner\nfragment multiplier"
+
+msgid "Finish a song with a Partner fragment multipler\nof 1.2x or more"
+msgstr "Finish a song with a Partner fragment multipler\nof 1.2x or more"
+
+msgid "Follow the movement of Arc notes\nby moving your finger left or right."
+msgstr "Follow the movement of Arc notes\nby moving your finger left or right."
+
+msgid "Forgot Password?"
+msgstr "Forgot Password?"
+
+msgid "Forgotten Construct"
+msgstr "Forgotten Construct"
+
+msgid "Forlorn"
+msgstr "Forlorn"
+
+msgid "Fracture"
+msgstr "Fracture"
+
+msgid "Fracture & MIR-203"
+msgstr "Fracture & MIR-203"
+
+msgid "Frag"
+msgstr "Frag"
+
+msgid "Frag Boost"
+msgstr "Frag Boost"
+
+msgid "Fragment Boost"
+msgstr "Fragment Boost"
+
+msgid "Fragments"
+msgstr "Fragments"
+
+msgid "Fragments Used"
+msgstr "Fragments Used"
+
+msgid "Fragments after"
+msgstr "Fragments after"
+
+msgid "Fragments are used to unlock new songs.\nThey are acquired as you play."
+msgstr "Fragments are used to unlock new songs.\nThey are acquired as you play."
+
+msgid "Fragments before"
+msgstr "Fragments before"
+
+msgid "Frame Rate"
+msgstr "Frame Rate"
+
+msgid "Free"
+msgstr "Free"
+
+msgid "Free unlock period has passed"
+msgstr "Free unlock period has passed"
+
+msgid "Friend ID:"
+msgstr "Friend ID:"
+
+msgid "Friends"
+msgstr "Friends"
+
+msgid "Full"
+msgstr "Full"
+
+msgid "Full Unlock"
+msgstr "Full Unlock"
+
+msgid "Furigana"
+msgstr "Furigana"
+
+msgid "GUEST"
+msgstr "GUEST"
+
+msgid "Gain or lose Rank based on performance\nRisk and Reward increase at higher Ranks"
+msgstr "Gain or lose Rank based on performance\nRisk and Reward increase at higher Ranks"
+
+msgid "Game data is out of sync due to another device.\nPlease check your progress after re-entering World Mode."
+msgstr "Game data is out of sync due to another device.\nPlease check your progress after re-entering World Mode."
+
+msgid "Game data restored from cloud save."
+msgstr "Game data restored from cloud save."
+
+msgid "Game data saved to cloud."
+msgstr "Game data saved to cloud."
+
+msgid "Gameplay"
+msgstr "Gameplay"
+
+msgid "Genre"
+msgstr "Genre"
+
+msgid "Give Lead"
+msgstr "Give Lead"
+
+msgid "Glass gathered without balance"
+msgstr "Glass gathered without balance"
+
+msgid "Go back"
+msgstr "Go back"
+
+msgid "Go to Map"
+msgstr "Go to Map"
+
+msgid "Go to Pack"
+msgstr "Go to Pack"
+
+msgid "Good luck in the upper levels of Arcaea!"
+msgstr "Good luck in Arcase's advanced difficulty!"
+
+msgid "Google Play"
+msgstr "Google Play"
+
+msgid "Google Play services are not available.\nPlease try updating Google Play and re-launching Arcaea."
+msgstr "Thank you for playing Arcase!\nPlease provide timely feedback if you encounter any problems."
+
+msgid "Grade"
+msgstr "Grade"
+
+msgid "Grade %@ or above"
+msgstr "Grade %@ or above"
+
+msgid "Graphics Quality"
+msgstr "Graphics Quality"
+
+msgid "Graphics Quality has been set to Lower for improved\nperformance. This can be changed at any time from Settings."
+msgstr "Hi, welcome back~\nThe entire development team of Arcase wishes everyone a happy National Day!\nThe kernel version has been updated to v6.9.0\nOther language packs are machine translated, please use Simplified Chinese!\nPlease check your QQ group for more information in a timely manner!\nCopyright 2025  ©  NulCorePivot"
+
+msgid "Grievous Lady"
+msgstr "Grievous Lady"
+
+msgid "Groove Core"
+msgstr "Groove Core"
+
+msgid "Group By"
+msgstr "Group By"
+
+msgid "Group songs by any\ncategory then open\na group"
+msgstr "Group songs by any\ncategory then open\na group"
+
+msgid "HARD + 6% chance to lose 6x Recollection Rate\nSTEP increased by 6 on clear"
+msgstr "HARD + 6% chance to lose 6x Recollection Rate\nSTEP increased by 6 on clear"
+
+msgid "HARD + Earn +%@ Fragments\nReward increases for consecutive clears"
+msgstr "HARD + Earn +%@ Fragments\nReward increases for consecutive clears"
+
+msgid "HARD + FAR notes slightly decrease\nRecollection Rate"
+msgstr "HARD + FAR notes slightly decrease\nRecollection Rate"
+
+msgid "HARD + For every 1/5 of song progress\n-10 Recollection Rate, +2 Fragments"
+msgstr "HARD + For every 1/5 of song progress\n-10 Recollection Rate, +2 Fragments"
+
+msgid "HARD + Gain +%@ Fragments on Track Clear\nThis skill changes during the day"
+msgstr "HARD + Gain +%@ Fragments on Track Clear\nThis skill changes during the day"
+
+msgid "HARD + Gain 10 STEP for every 1/3rd of total\nnote count that max combo reaches"
+msgstr "HARD + Gain 10 STEP for every 1/3rd of total\nnote count that max combo reaches"
+
+msgid "HARD + Increased Recollection Rate\nchange per note"
+msgstr "HARD + Increased Recollection Rate\nchange per note"
+
+msgid "HARD + LOST notes decrease Recollection Rate\nbased on current combo"
+msgstr "HARD + LOST notes decrease Recollection Rate\nbased on current combo"
+
+msgid "HARD + Lose %@ Fragments on Track Lost"
+msgstr "HARD + Lose %@ Fragments on Track Lost"
+
+msgid "HARD + Lose Emotions. Weaken an aspect of\nHikari & Vanessa by -10 per Emotion lost"
+msgstr "HARD + Lose Emotions. Weaken an aspect of\nHikari & Vanessa by -10 per Emotion lost"
+
+msgid "HARD + MIRROR - OVER increased by\nup to %@ based on Recollection Rate"
+msgstr "HARD + MIRROR - OVER increased by\nup to %@ based on Recollection Rate"
+
+msgid "HARD + MIRROR - Track Lost when\nRecollection Rate reaches 0%"
+msgstr "HARD + MIRROR - Track Lost when\nRecollection Rate reaches 0%"
+
+msgid "HARD + Max Recollection Gauge decreases\nbased on current Recollection Rate"
+msgstr "HARD + Max Recollection Gauge decreases\nbased on current Recollection Rate"
+
+msgid "HARD + O.N.G.E.K.I. (50)"
+msgstr "HARD + O.N.G.E.K.I. (50)"
+
+msgid "HARD + Recollection Rate gain disabled\nfor the last 1/4 of song"
+msgstr "HARD + Recollection Rate gain disabled\nfor the last 1/4 of song"
+
+msgid "HARD + Recollection Rate gain disabled\nwhen below %@ combo"
+msgstr "HARD + Recollection Rate gain disabled\nwhen below %@ combo"
+
+msgid "HARD + World Mode progress increased by 1\nfor each %@ combo reached"
+msgstr "HARD + World Mode progress increased by 1\nfor each %@ combo reached"
+
+msgid "HARD - Fatalis Gauge + sacrifices stamina\nto overload World Mode"
+msgstr "HARD - Fatalis Gauge + sacrifices stamina\nto overload World Mode"
+
+msgid "HARD - Forlorn Gauge"
+msgstr "HARD - Forlorn Gauge"
+
+msgid "HARD - Gauge persists + Earn +%@ Fragments\nReward increases for consecutive clears"
+msgstr "HARD - Gauge persists + Earn +%@ Fragments\nReward increases for consecutive clears"
+
+msgid "HARD - Irruption Gauge"
+msgstr "HARD - Irruption Gauge"
+
+msgid "HARD - Irruption Gauge - Chance to usurp\nPartners' World plays with 2x progress"
+msgstr "HARD - Irruption Gauge - Chance to usurp\nPartners' World plays with 2x progress"
+
+msgid "HARD - Tempest Gauge"
+msgstr "HARD - Tempest Gauge"
+
+msgid "HARD - Track Lost after %@ FAR or LOST notes"
+msgstr "HARD - Track Lost after %@ FAR or LOST notes"
+
+msgid "HARD - Track Lost after %@ LOST notes"
+msgstr "HARD - Track Lost after %@ LOST notes"
+
+msgid "HARD - Track Lost when Recollection Rate\nreaches 0%"
+msgstr "HARD - Track Lost when Recollection Rate\nreaches 0%"
+
+msgid "Hard"
+msgstr "Hard"
+
+msgid "Haruna"
+msgstr "Haruna"
+
+msgid "Have their Stories align (15-6 | 16-6)"
+msgstr "Have their Stories align (15-6 | 16-6)"
+
+msgid "Her power is currently restrained.\nInsight cannot usurp Partners' World plays."
+msgstr "Her power is currently restrained.\nInsight cannot usurp Partners' World plays."
+
+msgid "Her skill can be disabled within the character select screen."
+msgstr "Her skill can be disabled within the character select screen."
+
+msgid "Herald."
+msgstr "Herald."
+
+msgid "Hidden"
+msgstr "Hidden"
+
+msgid "Hide Text"
+msgstr "Hide Text"
+
+msgid "High Score"
+msgstr "High Score"
+
+msgid "Hikari"
+msgstr "Hikari"
+
+msgid "Hikari & El Clear"
+msgstr "Hikari & El Clear"
+
+msgid "Hikari & Fisica"
+msgstr "Hikari & Fisica"
+
+msgid "Hikari & Seine"
+msgstr "Hikari & Seine"
+
+msgid "Hikari & Selene Sheryl"
+msgstr "Hikari & Selene Sheryl"
+
+msgid "Hikari & Tairitsu"
+msgstr "Hikari & Tairitsu"
+
+msgid "Hikari & Vanessa"
+msgstr "Hikari & Vanessa"
+
+msgid "Hold a finger where Arc notes approach.\nKeep holding until the note has ended."
+msgstr "Hold a finger where Arc notes approach.\nKeep holding until the note has ended."
+
+msgid "Hollow Core"
+msgstr "Hollow Core"
+
+msgid "Horizon of Anamnesis"
+msgstr "Horizon of Anamnesis"
+
+msgid "I Agree"
+msgstr "I Agree"
+
+msgid "ID must be 9 digits."
+msgstr "ID must be 9 digits."
+
+msgid "INTRUDER"
+msgstr "INTRUDER"
+
+msgid "If you're enjoying Arcaea, please consider writing a review.\nThis will help us gain fans and bring more content!"
+msgstr "What do you think of Arcase?\nIf possible, please make sure to take the time to write your opinions to us,\nLet's do better!"
+
+msgid "Ignore"
+msgstr "Ignore"
+
+msgid "Ignore Random Restriction Steps\nAfter World progress, this skill changes"
+msgstr "Ignore Random Restriction Steps\nAfter World progress, this skill changes"
+
+msgid "Ignore Speed and Random Restriction Steps,\nWorld progress halved below Grade EX"
+msgstr "Ignore Speed and Random Restriction Steps,\nWorld progress halved below Grade EX"
+
+msgid "Ilith"
+msgstr "Ilith"
+
+msgid "Ilith & Ivy"
+msgstr "Ilith & Ivy"
+
+msgid "Illusion"
+msgstr "Illusion"
+
+msgid "Illustration"
+msgstr "Illustration"
+
+msgid "In Lead selection, the Lead selects a song to play."
+msgstr "In Lead selection, the Lead selects a song to play."
+
+msgid "In Turns selection, each player takes turns selecting a song to play."
+msgstr "In Turns selection, each player takes turns selecting a song to play."
+
+msgid "In Vote selection, a song is selected randomly from all player votes."
+msgstr "In Vote selection, a song is selected randomly from all player votes."
+
+msgid "In a land of scattered glass: alone, afraid, and\nunafraid, they met first with tragedy, and then\neach other. Now, their memories have taken shape.\n\nMain Story Chronicles contains each Main Story\nchapter up to and including Black Fate. Join Hikari\nand Tairitsu on their arduous journeys, and beyond."
+msgstr "In a land of scattered glass: alone, afraid, and\nunafraid, they met first with tragedy, and then\neach other. Now, their memories have taken shape.\n\nMain Story Chronicles contains each Main Story\nchapter up to and including Black Fate. Join Hikari\nand Tairitsu on their arduous journeys, and beyond."
+
+msgid "In order to use the Arcaea online services\nyou must read and agree to the following:"
+msgstr "In order to use the Arcaea online services\nyou must read and agree to the following:"
+
+msgid "In-App Purchase"
+msgstr "In-App Purchase"
+
+msgid "In-Progress"
+msgstr "In-Progress"
+
+msgid "In-app purchases are not available on this device.\nPlease check your device settings."
+msgstr "In-app purchases are not available on this device.\nPlease check your device settings."
+
+msgid "Incorrect."
+msgstr "Incorrect."
+
+msgid "Increased Recollection Rate change per note\nNo Recollection Rate gain for FAR notes"
+msgstr "Increased Recollection Rate change per note\nNo Recollection Rate gain for FAR notes"
+
+msgid "Inscribe the name upon %@"
+msgstr "Inscribe the name upon %@"
+
+msgid "Inscribed Law"
+msgstr "Inscribed Law"
+
+msgid "Insight"
+msgstr "Insight"
+
+msgid "Instant"
+msgstr "Instant"
+
+msgid "Instantly obtain all songs in '%@'"
+msgstr "Instantly obtain all songs in '%@'"
+
+msgid "Insufficient Cores"
+msgstr "Insufficient Cores"
+
+msgid "Intruder"
+msgstr "Intruder"
+
+msgid "Intruder Progress"
+msgstr "Intruder Progress"
+
+msgid "Intruder Sealed"
+msgstr "Intruder Sealed"
+
+msgid "Intruder Skill"
+msgstr "Intruder Skill"
+
+msgid "Invalid Code"
+msgstr "Invalid Code"
+
+msgid "Invalid Room Code."
+msgstr "Invalid Room Code."
+
+msgid "Invite"
+msgstr "Invite"
+
+msgid "Invite Notification"
+msgstr "Invite Notification"
+
+msgid "Invited '%@' to Link Play."
+msgstr "Invited '%@' to Link Play."
+
+msgid "Isabelle"
+msgstr "Isabelle"
+
+msgid "It's time to introduce Arcaea's advanced note types."
+msgstr "Now, let's get to know Arcase's advanced notes"
+
+msgid "Join"
+msgstr "Join"
+
+msgid "Kanae"
+msgstr "Kanae"
+
+msgid "Kick Player"
+msgstr "Kick Player"
+
+msgid "Kou"
+msgstr "Kou"
+
+msgid "LAST CLOUD SAVE:"
+msgstr "LAST CLOUD SAVE:"
+
+msgid "LAW"
+msgstr "LAW"
+
+msgid "LEVEL %@"
+msgstr "LEVEL %@"
+
+msgid "LEVEL ???"
+msgstr "LEVEL ???"
+
+msgid "LIGHT - Rewrite the paradigms\nof Light and Conflict."
+msgstr "LIGHT - Rewrite the paradigms\nof Light and Conflict."
+
+msgid "LIMITED"
+msgstr "LIMITED"
+
+msgid "LINK PLAY"
+msgstr "LINK PLAY"
+
+msgid "Lacrymira"
+msgstr "Lacrymira"
+
+msgid "Lagrange"
+msgstr "Lagrange"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Last Play"
+msgstr "Last Play"
+
+msgid "Last Played"
+msgstr "Last Played"
+
+msgid "Late/Early Position"
+msgstr "Late/Early Position"
+
+msgid "Lead"
+msgstr "Lead"
+
+msgid "Leave Room"
+msgstr "Leave Room"
+
+msgid "Leave the current Link Play room?"
+msgstr "Leave the current Link Play room?"
+
+msgid "Leaving Song Select will cause you to disconnect\nfrom Link Play"
+msgstr "Leaving Song Select will cause you to disconnect\nfrom Link Play"
+
+msgid "Let's Link Play in Arcaea! Room Code: %1@ %2@\n#arcaea_link"
+msgstr "Let's play Arcase Link Play together! Room number:% 1 @% 2@\n#arcaea_link"
+
+msgid "Let's put everything new together!"
+msgstr "Let's put everything new together!"
+
+msgid "Let's refresh how Arc notes move from side to side."
+msgstr "Let's refresh how Arc notes move from side to side."
+
+msgid "Let's try it out for real!"
+msgstr "Let's try it out for real!"
+
+msgid "Lethe"
+msgstr "Lethe"
+
+msgid "Level"
+msgstr "Level"
+
+msgid "Level Up"
+msgstr "Level Up"
+
+msgid "Level Up a Partner\nto level 12 or higher"
+msgstr "Level Up a Partner\nto level 12 or higher"
+
+msgid "Level Warning"
+msgstr "Level Warning"
+
+msgid "Level after"
+msgstr "Level after"
+
+msgid "Level before"
+msgstr "Level before"
+
+msgid "Lily"
+msgstr "Lily"
+
+msgid "Link Play"
+msgstr "Link Play"
+
+msgid "Linka"
+msgstr "Linka"
+
+msgid "Locked"
+msgstr "Locked"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Login Present"
+msgstr "Login Present"
+
+msgid "Login to get new packs, add friends,\nand use network features"
+msgstr "Login to get new packs, add friends,\nand use network features"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Long Press"
+msgstr "Long Press"
+
+msgid "Lost"
+msgstr "Lost"
+
+msgid "Lost Chapter: Beyond"
+msgstr "Lost Chapter: Beyond"
+
+msgid "Lost World"
+msgstr "Lost World"
+
+msgid "Lower"
+msgstr "Lower"
+
+msgid "Luin"
+msgstr "Luin"
+
+msgid "Luna"
+msgstr "Luna"
+
+msgid "Luna & Ilot"
+msgstr "Luna & Ilot"
+
+msgid "Luna & Mia"
+msgstr "Luna & Mia"
+
+msgid "MAX"
+msgstr "MAX"
+
+msgid "MDA-21"
+msgstr "MDA-21"
+
+msgid "MIR-203"
+msgstr "MIR-203"
+
+msgid "MIRROR + FAR judgements hidden"
+msgstr "MIRROR + FAR judgements hidden"
+
+msgid "MIRROR - All Notes and Arcs reversed"
+msgstr "MIRROR - All Notes and Arcs reversed"
+
+msgid "MTA-XXX"
+msgstr "MTA-XXX"
+
+msgid "MUSE DASH - Sky Notes become ghosts\nwhen playing a Muse Dash song"
+msgstr "MUSE DASH - Sky Notes become ghosts\nwhen playing a Muse Dash song"
+
+msgid "Main"
+msgstr "Main"
+
+msgid "Main Menu"
+msgstr "Main Menu"
+
+msgid "Main Story"
+msgstr "Main Story"
+
+msgid "Main Story Chronicles"
+msgstr "Main Story Chronicles"
+
+msgid "Main Story[PACKLIST]"
+msgstr "Main Story[PACKLIST]"
+
+msgid "Manage Downloads"
+msgstr "Manage Downloads"
+
+msgid "Map"
+msgstr "Map"
+
+msgid "Marija"
+msgstr "Marija"
+
+msgid "Match \"%@\""
+msgstr "Match \"%@\""
+
+msgid "Max downloads exceeded. Please wait 24 hours and try again."
+msgstr "Max downloads exceeded. Please wait 24 hours and try again."
+
+msgid "Maximum friend limit extended!"
+msgstr "Maximum friend limit extended!"
+
+msgid "Maximum level 20 > 30"
+msgstr "Maximum level 20 > 30"
+
+msgid "Maya"
+msgstr "Maya"
+
+msgid "Memories"
+msgstr "Memories"
+
+msgid "Memories after"
+msgstr "Memories after"
+
+msgid "Memories and packs are connected to your account.\nUse Cloud Save to save your scores and unlocks"
+msgstr "Memories and packs are connected to your account.\nUse Cloud Save to save your scores and unlocks"
+
+msgid "Memories are obtainable through the Arcaea website."
+msgstr "The memory source point can be obtained from the Arcase official website"
+
+msgid "Memories are used to unlock new songs and packs.\nYou need to be online and signed in to use them."
+msgstr "Memories are used to unlock new songs and packs.\nYou need to be online and signed in to use them."
+
+msgid "Memories before"
+msgstr "Memories before"
+
+msgid "Memories can be used to purchase\nsongs, packs and future content.\n\nYou need to be online and signed in\nto use them.\n\nMemories are tied to your Arcaea account\nand never expire.\n\nPurchases are made in accordance with:"
+msgstr "Memories can be used to purchase\nsongs, packs and future content.\n\nYou need to be online and signed in\nto use them.\n\nMemories are tied to your Arcaea account\nand never expire.\n\nPurchases are made in accordance with:"
+
+msgid "Memory\nBoost"
+msgstr "Memory\nBoost"
+
+msgid "Memory Archive Ticket"
+msgstr "Memory Archive Ticket"
+
+msgid "Memory Boost"
+msgstr "Memory Boost"
+
+msgid "Memory Boost active. In this chapter, your next play progress\nand Partner experience gain will have a %@x multiplier."
+msgstr "Memory Boost active. In this chapter, your next play progress\nand Partner experience gain will have a %@x multiplier."
+
+msgid "Memory Boost increases progress and experience for your next World play.\nIt stays active until you play a song in any map. (Excludes Legacy chapters)"
+msgstr "Memory Boost increases progress and experience for your next World play.\nIt stays active until you play a song in any map. (Excludes Legacy chapters)"
+
+msgid "Memory Boost, Stamina Boost, and Beyond Boost do not influence each other\nand instead stack cumulatively."
+msgstr "Memory Boost, Stamina Boost, and Beyond Boost do not influence each other\nand instead stack cumulatively."
+
+msgid "Menus Only"
+msgstr "Menus Only"
+
+msgid "Middle"
+msgstr "Middle"
+
+msgid "Midsummer"
+msgstr "Midsummer"
+
+msgid "Mika Yurisaki"
+msgstr "Mika Yurisaki"
+
+msgid "Milk"
+msgstr "Milk"
+
+msgid "Minuet"
+msgstr "Minuet"
+
+msgid "Mir"
+msgstr "Mir"
+
+msgid "Miss both special notes in\nInfinite Strife, and clear it"
+msgstr "Miss both special notes in\nInfinite Strife, and clear it"
+
+msgid "Mission Complete"
+msgstr "Mission Complete"
+
+msgid "Mission Rewards"
+msgstr "Mission Rewards"
+
+msgid "Missions"
+msgstr "Missions"
+
+msgid "Mithra Tercera"
+msgstr "Mithra Tercera"
+
+msgid "More"
+msgstr "More"
+
+msgid "More players are needed to start."
+msgstr "More players are needed to start."
+
+msgid "Music"
+msgstr "Music"
+
+msgid "Music Game"
+msgstr "Music Game"
+
+msgid "Music Play"
+msgstr "Music Play"
+
+msgid "My Rank"
+msgstr "My Rank"
+
+msgid "NEXT"
+msgstr "NEXT"
+
+msgid "NEXT\nCHAPTER"
+msgstr "NEXT\nCHAPTER"
+
+msgid "Nai"
+msgstr "Nai"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Nami"
+msgstr "Nami"
+
+msgid "Nami & Sui"
+msgstr "Nami & Sui"
+
+msgid "Nell"
+msgstr "Nell"
+
+msgid "Network Error"
+msgstr "Network Error"
+
+msgid "New Story Unlocked"
+msgstr "New Story Unlocked"
+
+msgid "News & Updates"
+msgstr "News & Updates"
+
+msgid "No"
+msgstr "No"
+
+msgid "No Events"
+msgstr "No Events"
+
+msgid "No Recollection Rate loss for\nthe first %@ LOST notes"
+msgstr "No Recollection Rate loss for\nthe first %@ LOST notes"
+
+msgid "No Thanks"
+msgstr "No Thanks"
+
+msgid "No data found to sync."
+msgstr "No data found to sync."
+
+msgid "No events are currently running."
+msgstr "No events are currently running."
+
+msgid "No incomplete purchases found."
+msgstr "No incomplete purchases found."
+
+msgid "None"
+msgstr "None"
+
+msgid "Nono"
+msgstr "Nono"
+
+msgid "Nonoka"
+msgstr "Nonoka"
+
+msgid "Not Available"
+msgstr "Not Available"
+
+msgid "Not Played"
+msgstr "Not Played"
+
+msgid "Not a single soul could have predicted this truth.\nThe truth is what befell.\nWhat it entails yet remains shrouded.\n\nFind 3 more songs in this addition to\nSevered Eden, all winning entries of\nthe \"Imagining After\" Song Contest."
+msgstr "Not a single soul could have predicted this truth.\nThe truth is what befell.\nWhat it entails yet remains shrouded.\n\nFind 3 more songs in this addition to\nSevered Eden, all winning entries of\nthe \"Imagining After\" Song Contest."
+
+msgid "Not all players are able to play this song."
+msgstr "Not all players are able to play this song."
+
+msgid "Not all players are available to start."
+msgstr "Not all players are available to start."
+
+msgid "Not available in Streaming Mode"
+msgstr "Not available in Streaming Mode"
+
+msgid "Not enough %@"
+msgstr "Not enough %@"
+
+msgid "Note Design"
+msgstr "Note Design"
+
+msgid "Note Speed"
+msgstr "Note Speed"
+
+msgid "Note Volume"
+msgstr "Note Volume"
+
+msgid "Note judgement details displayed"
+msgstr "Note judgement details displayed"
+
+msgid "Note sounds disabled\ndue to high offset"
+msgstr "Note sounds disabled\ndue to high offset"
+
+msgid "Note speed restricted by World Map"
+msgstr "Note speed restricted by World Map"
+
+msgid "Notice"
+msgstr "Announcement"
+
+msgid "Notifications can be individually toggled in the Settings menu."
+msgstr "Notifications can be individually toggled in the Settings menu."
+
+msgid "Now, your steps matter again:\nhalf of them."
+msgstr "Now, your steps matter again:\nhalf of them."
+
+msgid "O.N.G.E.K.I. - Boost random stats\non dealing Overdamage"
+msgstr "O.N.G.E.K.I. - Boost random stats\non dealing Overdamage"
+
+msgid "O.N.G.E.K.I. - Fragment reward on\ndealing Overdamage"
+msgstr "O.N.G.E.K.I. - Fragment reward on\ndealing Overdamage"
+
+msgid "O.N.G.E.K.I. - On Track Complete,\ndeal Overdamage based on accuracy"
+msgstr "O.N.G.E.K.I. - On Track Complete,\ndeal Overdamage based on accuracy"
+
+msgid "O.N.G.E.K.I. - Reward Overdamage fragments\nbased on performance"
+msgstr "O.N.G.E.K.I. - Reward Overdamage fragments\nbased on performance"
+
+msgid "OBTAINED"
+msgstr "OBTAINED"
+
+msgid "OFFLINE"
+msgstr "OFFLINE"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OR"
+msgstr "OR"
+
+msgid "OR %@"
+msgstr "OR %@"
+
+msgid "OVERFLOW - EASY Recollection Rate \nHARD upon reaching 100% Recollection"
+msgstr "OVERFLOW - EASY Recollection Rate \nHARD upon reaching 100% Recollection"
+
+msgid "Obtain %@"
+msgstr "Obtain %@"
+
+msgid "Obtain %@ %2@ when you purchase this %3@."
+msgstr "Obtain %@ %2@ when you purchase this %3@."
+
+msgid "Obtain '%1@'\nto unlock this story."
+msgstr "Obtain '%1@'\nto unlock this story."
+
+msgid "Obtain '%1@' and '%2@'\nto unlock this story."
+msgstr "Obtain '%1@' and '%2@'\nto unlock this story."
+
+msgid "Obtain '%@' to unlock this story."
+msgstr "Obtain '%@' to unlock this story."
+
+msgid "Obtain Memories"
+msgstr "Obtain Memories"
+
+msgid "Obtain Potential %@ or above"
+msgstr "Obtain Potential %@ or above"
+
+msgid "Obtain any Core for\nAwakening Partners in\nWorld Mode"
+msgstr "Obtain any Core for\nAwakening Partners in\nWorld Mode"
+
+msgid "Obtain any Core for Awakening Partners\nin World Mode"
+msgstr "Obtain any Core for Awakening Partners\nin World Mode"
+
+msgid "Obtain either the song '%1@'\nor '%2@' to read this story."
+msgstr "Obtain either the song '%1@'\nor '%2@' to read this story."
+
+msgid "Obtain either the song '%1@' or '%2@' to read this story."
+msgstr "Obtain either the song '%1@' or '%2@' to read this story."
+
+msgid "Obtain in World Mode"
+msgstr "Obtain in World Mode"
+
+msgid "Obtain that which you seek"
+msgstr "Obtain that which you seek"
+
+msgid "Obtain the '%@' pack to read this story.\nYou must be online and logged in to purchase packs."
+msgstr "Obtain the '%@' pack to read this story.\nYou must be online and logged in to purchase packs."
+
+msgid "Obtain the Lasting Eden Pack"
+msgstr "Obtain the Lasting Eden Pack"
+
+msgid "Obtain the Partner '%@'"
+msgstr "Obtain the Partner '%@'"
+
+msgid "Obtain the song '%@' from World Mode\nto read this story."
+msgstr "Obtain the song '%@' from World Mode\nto read this story."
+
+msgid "Obtain the song '%@' to read this story.\nYou must be online and logged in to unlock songs."
+msgstr "Obtain the song '%@' to read this story.\nYou must be online and logged in to unlock songs."
+
+msgid "Obtain this song in a limited time event for free"
+msgstr "Obtain this song in a limited time event for free"
+
+msgid "Obtained"
+msgstr "Obtained"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Offset Setup"
+msgstr "Offset Setup"
+
+msgid "One Last Dream"
+msgstr "One Last Dream"
+
+msgid "One or more purchases successfully completed."
+msgstr "One or more purchases successfully completed."
+
+msgid "Open App Store"
+msgstr "Open App Store"
+
+msgid "Open Google Play"
+msgstr "Open Google Play"
+
+msgid "Open Site"
+msgstr "Open Site"
+
+msgid "Open the Settings menu"
+msgstr "Open the Settings menu"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Other than side to side, Arc notes can also move vertically.\nMove your finger up and down to follow the height of the Arc note."
+msgstr "Other than side to side, Arc notes can also move vertically.\nMove your finger up and down to follow the height of the Arc note."
+
+msgid "Outer Reaches"
+msgstr "Outer Reaches"
+
+msgid "Overdrive"
+msgstr "Overdrive"
+
+msgid "Overview"
+msgstr "Overview"
+
+msgid "Overwrite Cloud Save"
+msgstr "Overwrite Cloud Save"
+
+msgid "Ownership of Lasting Eden is\nrequired to obtain this Pack Append."
+msgstr "Ownership of Lasting Eden is\nrequired to obtain this Pack Append."
+
+msgid "PARTNER"
+msgstr "PARTNER"
+
+msgid "PERFORMANCE"
+msgstr "PERFORMANCE"
+
+msgid "PLAY"
+msgstr "PLAY"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "PROG = OVER + STEP/2"
+msgstr "PROG = OVER + STEP/2"
+
+msgid "PROG = OVER - ||OVER-FRAG|-|OVER-STEP||"
+msgstr "PROG = OVER - ||OVER-FRAG|-|OVER-STEP||"
+
+msgid "PROG x= FRAG"
+msgstr "PROG x= FRAG"
+
+msgid "PROG x= max(1.0, 2.0 - 0.1 x LEVEL)"
+msgstr "PROG x= max(1.0, 2.0 - 0.1 x LEVEL)"
+
+msgid "Pack"
+msgstr "Pack"
+
+msgid "Pack Append"
+msgstr "Pack Append"
+
+msgid "Pack required to\nunlock FTR difficulty"
+msgstr "Pack required to\nunlock FTR difficulty"
+
+msgid "Page %1@/%2@"
+msgstr "Page %1@/%2@"
+
+msgid "Pandora Nemesis"
+msgstr "Pandora Nemesis"
+
+msgid "Part I"
+msgstr "Part I"
+
+msgid "Part II"
+msgstr "Part II"
+
+msgid "Part III"
+msgstr "Part III"
+
+msgid "Partner"
+msgstr "Partner"
+
+msgid "Partner Progress"
+msgstr "Partner Progress"
+
+msgid "Partner Sealed"
+msgstr "Partner Sealed"
+
+msgid "Partner Skill"
+msgstr "Partner Skill"
+
+msgid "Partner Storage"
+msgstr "Partner Storage"
+
+msgid "Partner stats and skills are available when logged in."
+msgstr "Partner stats and skills are available when logged in."
+
+msgid "Partners gain experience while playing in World Mode.\nHigher-level Partners and ones with difficult abilities help you progress faster."
+msgstr "Partners gain experience while playing in World Mode.\nHigher-level Partners and ones with difficult abilities help you progress faster."
+
+msgid "Partners share %@% of their Fragments with Kou,\nreceived after playing a song (Total: %2@)"
+msgstr "Partners share %@% of their Fragments with Kou,\nreceived after playing a song (Total: %2@)"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Password (confirm)"
+msgstr "Password (confirm)"
+
+msgid "Password does not match"
+msgstr "Password does not match"
+
+msgid "Password must be at least 8 characters"
+msgstr "Password must be at least 8 characters"
+
+msgid "Pause Type"
+msgstr "Pause Type"
+
+msgid "Pay %@ Fragments to extend maximum friends to %2@?"
+msgstr "Pay %@ Fragments to extend maximum friends to %2@?"
+
+msgid "Pay 10 Fragments on start\nGain 1 Milk on clear"
+msgstr "Pay 10 Fragments on start\nGain 1 Milk on clear"
+
+msgid "Pay the chart level in Fragments on start\nEarn +10 Fragments on EX or above"
+msgstr "Pay the chart level in Fragments on start\nEarn +10 Fragments on EX or above"
+
+msgid "Peacemaker"
+msgstr "Peacemaker"
+
+msgid "Performance"
+msgstr "Performance"
+
+msgid "Performance does not effect ascent or descent\nUpon failure, all will be lost"
+msgstr "Performance does not effect ascent or descent\nUpon failure, all will be lost"
+
+msgid "Play %@ %2@"
+msgstr "Play %@ %2@"
+
+msgid "Play Result"
+msgstr "Play Result"
+
+msgid "Play a song that is\nabove your Potential"
+msgstr "Play a song that is\nabove your Potential"
+
+msgid "Play in progress.\nThis Room cannot currently be joined."
+msgstr "Play in progress.\nThis Room cannot currently be joined."
+
+msgid "Player Potential shown\nwhen enabled"
+msgstr "Player Potential shown\nwhen enabled"
+
+msgid "Players can suggest songs, appearing as messages.\nTap a message to quickly jump to a suggested song."
+msgstr "Players can suggest songs, appearing as messages.\nTap a message to quickly jump to a suggested song."
+
+msgid "Playing in World Mode consumes stamina. Stamina regenerates over time."
+msgstr "Playing in World Mode consumes stamina. Stamina regenerates over time."
+
+msgid "Please email 'contact@lowiro.com' for any game or account issues."
+msgstr "Please email 'contact@lowiro.com' for any game or account issues."
+
+msgid "Please enter a valid code."
+msgstr "Please enter a valid code."
+
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+msgid "Please update Arcaea to the latest version."
+msgstr "Please update Arcase to the latest version."
+
+msgid "Please wait %@ minutes before requesting\nanother verification email."
+msgstr "Please wait %@ minutes before requesting\nanother verification email."
+
+msgid "Please wait 24 hours before using this feature again."
+msgstr "Please wait 24 hours before using this feature again."
+
+msgid "Pop / Recommended"
+msgstr "Pop / Recommended"
+
+msgid "Prepare to start..."
+msgstr "Prepare to start..."
+
+msgid "Preparing"
+msgstr "Preparing"
+
+msgid "Present difficulties and above provide a greater challenge.\n\nBefore challenging this level we recommend that you\nplay the Advanced Tutorial.\n\nYou can view the Tutorial later from Main Menu > About."
+msgstr "Present difficulties and above provide a greater challenge.\n\nBefore challenging this level we recommend that you\nplay the Advanced Tutorial.\n\nYou can view the Tutorial later from Main Menu > About."
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Private"
+msgstr "Private"
+
+msgid "Proceed"
+msgstr "Proceed"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Progress"
+msgstr "Progress"
+
+msgid "Progress through World Mode to earn songs, Partners, & other rewards."
+msgstr "Progress through World Mode to earn songs, Partners, & other rewards."
+
+msgid "Progress through a total of %@X steps in this chapter in order to unlock this Map"
+msgstr "Progress through a total of %@X steps in this chapter in order to unlock this Map"
+
+msgid "Public"
+msgstr "Public"
+
+msgid "Purchase"
+msgstr "Purchase"
+
+msgid "Purchase Error"
+msgstr "Purchase Error"
+
+msgid "Purchase through Arcaea Online"
+msgstr "Payment through Arcase Online"
+
+msgid "Purchases Pending"
+msgstr "Purchases Pending"
+
+msgid "Purchases are available on all\nof your Arcaea devices."
+msgstr "Purchases are available on all\nof your Arcaea devices."
+
+msgid "Pure Late/Early"
+msgstr "Pure Late/Early"
+
+msgid "Quit"
+msgstr "Quit"
+
+msgid "Quit near the end of a song"
+msgstr "Quit near the end of a song"
+
+msgid "Quit "
+msgstr "Quit "
+
+msgid "Quitting will abandon the course.\nStamina/Warped Shard will be spent!"
+msgstr "Quitting will abandon the course.\nStamina/Warped Shard will be spent!"
+
+msgid "Quitting will abandon the current song.\nStamina/Fragments will be spent without progress!"
+msgstr "Quitting will abandon the current song.\nStamina/Fragments will be spent without progress!"
+
+msgid "Quitting will cause you to leave the room!"
+msgstr "Quitting will cause you to leave the room!"
+
+msgid "READY"
+msgstr "READY"
+
+msgid "REMAIN"
+msgstr "REMAIN"
+
+msgid "REQUIREMENT"
+msgstr "REQUIREMENT"
+
+msgid "RESTRICTION - Random + Double World progress\nAfter World progress, this skill changes"
+msgstr "RESTRICTION - Random + Double World progress\nAfter World progress, this skill changes"
+
+msgid "REWARDS"
+msgstr "REWARDS"
+
+msgid "ROOM CODE"
+msgstr "ROOM CODE"
+
+msgid "Random"
+msgstr "Random"
+
+msgid "Random Fragment bonus upon\ncompleting song"
+msgstr "Random Fragment bonus upon\ncompleting song"
+
+msgid "Randomly triggers MIRROR\nGain +%@ Fragments on MIRROR"
+msgstr "Randomly triggers MIRROR\nGain +%@ Fragments on MIRROR"
+
+msgid "Rank %1@: Earn +%2@% Fragments,\nx%3@ Recollection Rate loss"
+msgstr "Rank %1@: Earn +%2@% Fragments,\nx%3@ Recollection Rate loss"
+
+msgid "Reach 3.50 Potential"
+msgstr "Reach 3.50 Potential"
+
+msgid "Reach 70 percent Recollection Rate or above\nby the end of the song to clear it."
+msgstr "Reach 70 percent Recollection Rate or above\nby the end of the song to clear it."
+
+msgid "Read '%@'"
+msgstr "Read '%@'"
+
+msgid "Read '18-6'"
+msgstr "Read '18-6'"
+
+msgid "Read VS-6 to Unlock"
+msgstr "Read VS-6 to Unlock"
+
+msgid "Recall Emotions. Each Emotion\nboosts an aspect of Ilith & Ivy by +10"
+msgstr "Recall Emotions. Each Emotion\nboosts an aspect of Ilith & Ivy by +10"
+
+msgid "Receive a notification\nwhen stamina is full"
+msgstr "Receive a notification\nwhen stamina is full"
+
+msgid "Receive notifications\nwhen invited to Link Play"
+msgstr "Receive notifications\nwhen invited to Link Play"
+
+msgid "Recollection Gauge measures Grade\n(Track Lost on Grade A or below)"
+msgstr "Recollection Gauge measures Grade\n(Track Lost on Grade A or below)"
+
+msgid "Recollection Gauge measures Grade (Track Lost\nwhen grade falls below personal best)"
+msgstr "Recollection Gauge measures Grade (Track Lost\nwhen grade falls below personal best)"
+
+msgid "Recollection Gauge set to 0 for LOST notes"
+msgstr "Recollection Gauge set to 0 for LOST notes"
+
+msgid "Recollection Gauge starts at %@%\nRecollection Rate gain reduced to %2@%"
+msgstr "Recollection Gauge starts at %@%\nRecollection Rate gain reduced to %2@%"
+
+msgid "Recollection Rate gain increased,\nbut decreases with song progress"
+msgstr "Recollection Rate gain increased,\nbut decreases with song progress"
+
+msgid "Recollection loss 4x if not using BALANCE Partner"
+msgstr "Recollection loss 4x if not using BALANCE Partner"
+
+msgid "Recollection loss 4x if not using SUPPORT Partner"
+msgstr "Recollection loss 4x if not using SUPPORT Partner"
+
+msgid "Recollection loss greatly increased based on OVER"
+msgstr "Recollection loss greatly increased based on OVER"
+
+msgid "Recommended: %@"
+msgstr "Recommended: %@"
+
+msgid "Recommends songs daily. Gain 41 Fragments\non first clear of each song"
+msgstr "Recommends songs daily. Gain 41 Fragments\non first clear of each song"
+
+msgid "Redeem"
+msgstr "Redeem"
+
+msgid "Redeem Code"
+msgstr "Redeem Code"
+
+msgid "Reduces graphics quality for\nlower performance devices"
+msgstr "Reduces graphics quality for\nlower performance devices"
+
+msgid "Refill"
+msgstr "Refill"
+
+msgid "Refill Stamina"
+msgstr "Refill Stamina"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Registrations from this IP address are restricted.\nTry again later or contact support@lowiro.com"
+msgstr "Registrations from this IP address are restricted.\nTry again later or contact support@lowiro.com"
+
+msgid "Regulus"
+msgstr "Regulus"
+
+msgid "Removed from room"
+msgstr "Removed from room"
+
+msgid "Removes all downloaded songs.\nThey can be downloaded again at any time."
+msgstr "Removes all downloaded songs.\nThey can be downloaded again at any time."
+
+msgid "Requirement"
+msgstr "Requirement"
+
+msgid "Requirements"
+msgstr "Requirements"
+
+msgid "Requires email confirmation"
+msgstr "Requires email confirmation"
+
+msgid "Resend Email"
+msgstr "Resend Email"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Resolve to lose nothing"
+msgstr "Resolve to lose nothing"
+
+msgid "Restart"
+msgstr "Restart"
+
+msgid "Restriction"
+msgstr "Restriction"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "Resume"
+msgstr "Resume"
+
+msgid "Retrace our journey"
+msgstr "Retrace our journey"
+
+msgid "Retry"
+msgstr "Retry"
+
+msgid "Reunion"
+msgstr "Reunion"
+
+msgid "Reveal a Truth"
+msgstr "Reveal a Truth"
+
+msgid "Reveal a Whisper"
+msgstr "Reveal a Whisper"
+
+msgid "Review Now"
+msgstr "Review Now"
+
+msgid "Rewards"
+msgstr "Rewards"
+
+msgid "Rewards unlocked in World Mode can be used and played offline."
+msgstr "Rewards unlocked in World Mode can be used and played offline."
+
+msgid "Room Management"
+msgstr "Room Management"
+
+msgid "Room Options"
+msgstr "Room Options"
+
+msgid "Room codes can only be used to join Private rooms."
+msgstr "Room codes can only be used to join Private rooms."
+
+msgid "Room is full."
+msgstr "Room is full."
+
+msgid "Run game at >60 FPS\nUses more battery"
+msgstr "Run game at >60 FPS\nUses more battery"
+
+msgid "SEALED"
+msgstr "SEALED"
+
+msgid "SEEKER"
+msgstr "SEEKER"
+
+msgid "SELECT"
+msgstr "SELECT"
+
+msgid "STAFF LINK"
+msgstr "STAFF LINK"
+
+msgid "STAMINA"
+msgstr "STAMINA"
+
+msgid "STEP progress carries over to the next World\nplay when using Stamina (Current: %@)"
+msgstr "STEP progress carries over to the next World\nplay when using Stamina (Current: %@)"
+
+msgid "SUPPORT"
+msgstr "SUPPORT"
+
+msgid "Saki"
+msgstr "Saki"
+
+msgid "Salt"
+msgstr "Salt"
+
+msgid "Sapphire"
+msgstr "Sapphire"
+
+msgid "Saya"
+msgstr "Saya"
+
+msgid "Saya & Elizabeth"
+msgstr "Saya & Elizabeth"
+
+msgid "Scarlet Core"
+msgstr "Scarlet Core"
+
+msgid "Scenery"
+msgstr "Scenery"
+
+msgid "Score displays distance\nto closest Grade threshold"
+msgstr "Score displays distance\nto closest Grade threshold"
+
+msgid "Search..."
+msgstr "Search..."
+
+msgid "Search[ALTEREGO]"
+msgstr "Search[ALTEREGO]"
+
+msgid "Searching for an open room..."
+msgstr "Searching for an open room..."
+
+msgid "Seele"
+msgstr "Seele"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Select \"All Songs\"\nfrom the Pack List\nin Music Play"
+msgstr "Select \"All Songs\"\nfrom the Pack List\nin Music Play"
+
+msgid "Select Purchase Method"
+msgstr "Select Purchase Method"
+
+msgid "Select Scenery"
+msgstr "Select Scenery"
+
+msgid "Select a Course"
+msgstr "Select a Course"
+
+msgid "Select a Song"
+msgstr "Select a Song"
+
+msgid "Select a map and play songs to progress towards rewards."
+msgstr "Select a map and play songs to progress towards rewards."
+
+msgid "Select the Partner '%@'"
+msgstr "Select the Partner '%@'"
+
+msgid "Selene Sheryl"
+msgstr "Selene Sheryl"
+
+msgid "Send Email"
+msgstr "Send Email"
+
+msgid "Send another email for account verification?"
+msgstr "Send another email for account verification?"
+
+msgid "Sending..."
+msgstr "Sending..."
+
+msgid "Sense of Incompleteness"
+msgstr "Sense of Incompleteness"
+
+msgid "Serene Core"
+msgstr "Serene Core"
+
+msgid "Serial code claimed successfully!"
+msgstr "Serial code claimed successfully!"
+
+msgid "Set"
+msgstr "Set"
+
+msgid "Setsuna"
+msgstr "Setsuna"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Setup"
+msgstr "Setup"
+
+msgid "Setup is not complete. Are you sure you want to cancel?"
+msgstr "Setup is not complete. Are you sure you want to cancel?"
+
+msgid "Severed Eden"
+msgstr "Severed Eden"
+
+msgid "Severed Eden - Chapter 2"
+msgstr "Severed Eden - Chapter 2"
+
+msgid "Shama"
+msgstr "Shama"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Shikoku"
+msgstr "Shikoku"
+
+msgid "Shirabe"
+msgstr "Shirabe"
+
+msgid "Shirahime"
+msgstr "Shirahime"
+
+msgid "Show Partner skill\nbefore song start"
+msgstr "Show Partner skill\nbefore song start"
+
+msgid "Show Potential"
+msgstr "Show Potential"
+
+msgid "Show Touches"
+msgstr "Show Touches"
+
+msgid "Sia"
+msgstr "Sia"
+
+msgid "Side"
+msgstr "Side"
+
+msgid "Side Story"
+msgstr "Side Story"
+
+msgid "Side Story[PACKLIST]"
+msgstr "Side Story[PACKLIST]"
+
+msgid "Simple: let the weaker\nand younger be swifter."
+msgstr "Simple: let the weaker\nand younger be swifter."
+
+msgid "Single Tap"
+msgstr "Single Tap"
+
+msgid "Skill Display"
+msgstr "Skill Display"
+
+msgid "Skill and stats are inactive"
+msgstr "Skill and stats are inactive"
+
+msgid "Skill inactive in World Mode"
+msgstr "Skill inactive in World Mode"
+
+msgid "Skill unlocked after Awakening"
+msgstr "Skill unlocked after Awakening"
+
+msgid "Skill unlocked at level %@"
+msgstr "Skill unlocked at level %@"
+
+msgid "Skills change various gameplay aspects and difficulty."
+msgstr "Skills change various gameplay aspects and difficulty."
+
+msgid "Skip"
+msgstr "Skip"
+
+msgid "Skip Vote"
+msgstr "Skip Vote"
+
+msgid "Sky notes can appear along Traces.\nTap them in the air when they reach the upper input line."
+msgstr "Sky notes can appear along Traces.\nTap them in the air when they reach the upper input line."
+
+msgid "Slide songs to the right to add them to Favorites."
+msgstr "Slide songs to the right to add them to Favorites."
+
+msgid "Slow"
+msgstr "Slow"
+
+msgid "Slower"
+msgstr "Slower"
+
+msgid "Some maps have requirements to start them.\nOther maps are timed events, so check back often to find them."
+msgstr "Some maps have requirements to start them.\nOther maps are timed events, so check back often to find them."
+
+msgid "Sonata"
+msgstr "Sonata"
+
+msgid "Song Packs are organized by category. Scroll the category panel vertically\nto switch the current category, and horizontally to browse the Packs within."
+msgstr "Song Packs are organized by category. Scroll the category panel vertically\nto switch the current category, and horizontally to browse the Packs within."
+
+msgid "Song Select"
+msgstr "Song Select"
+
+msgid "Song."
+msgstr "Song."
+
+msgid "Songs can be sorted by Title, Difficulty, Date, or Grade."
+msgstr "Songs can be sorted by Title, Difficulty, Date, or Grade."
+
+msgid "Songs included: %@"
+msgstr "Songs included: %@"
+
+msgid "Songs required to\nunlock FTR difficulty"
+msgstr "Songs required to\nunlock FTR difficulty"
+
+msgid "Sort By"
+msgstr "Sort By"
+
+msgid "Spend %1@ Fragments to Reveal a Truth?"
+msgstr "Spend %1@ Fragments to Reveal a Truth?"
+
+msgid "Spend %1@ Fragments to Reveal a Whisper?"
+msgstr "Spend %1@ Fragments to Reveal a Whisper?"
+
+msgid "Spend %@ memories to activate boost?"
+msgstr "Spend %@ memories to activate boost?"
+
+msgid "Spend %@ memories to refill stamina?"
+msgstr "Spend %@ memories to refill stamina?"
+
+msgid "Spend Ether Drops to upgrade Intruder"
+msgstr "Spend Ether Drops to upgrade Intruder"
+
+msgid "Spend Ether Drops to upgrade Partner"
+msgstr "Spend Ether Drops to upgrade Partner"
+
+msgid "Spend Stamina\nand complete a song\nin World Mode"
+msgstr "Spend Stamina\nand complete a song\nin World Mode"
+
+msgid "Spire of Convergence"
+msgstr "Spire of Convergence"
+
+msgid "Spire of the Gods"
+msgstr "Spire of the Gods"
+
+msgid "Stamina"
+msgstr "Stamina"
+
+msgid "Stamina\nBoost"
+msgstr "Stamina\nBoost"
+
+msgid "Stamina Boost"
+msgstr "Stamina Boost"
+
+msgid "Stamina Notification"
+msgstr "Stamina Notification"
+
+msgid "Stamina Steps grant you additional stamina when stopped on.\nYou'll miss the reward if you pass over it, so aim carefully!"
+msgstr "Stamina Steps grant you additional stamina when stopped on.\nYou'll miss the reward if you pass over it, so aim carefully!"
+
+msgid "Stamina Used"
+msgstr "Stamina Used"
+
+msgid "Stamina after"
+msgstr "Stamina after"
+
+msgid "Stamina before"
+msgstr "Stamina before"
+
+msgid "Stamina can be refilled using Memories or Fragments."
+msgstr "Stamina can be refilled using Memories or Fragments."
+
+msgid "Stamina refilled!"
+msgstr "Stamina refilled!"
+
+msgid "Standard / High"
+msgstr "Standard / High"
+
+msgid "Standard progress"
+msgstr "Standard progress"
+
+msgid "Star."
+msgstr "Star."
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Starting in..."
+msgstr "Starting in..."
+
+msgid "Stats affect various aspects of gameplay and world progress."
+msgstr "Stats affect various aspects of gameplay and world progress."
+
+msgid "Stats are temporarily doubled\nupon clearing a maimai song"
+msgstr "Stats are temporarily doubled\nupon clearing a maimai song"
+
+msgid "Stella"
+msgstr "Stella"
+
+msgid "Step"
+msgstr "Step"
+
+msgid "Stored Progress"
+msgstr "Stored Progress"
+
+msgid "Stories in Act II are intended to be read after finishing Final Verdict.\nFor the best experience, it is recommended to complete Final Verdict before proceeding."
+msgstr "Stories in Act II are intended to be read after finishing Final Verdict.\nFor the best experience, it is recommended to complete Final Verdict before proceeding."
+
+msgid "Story"
+msgstr "Story"
+
+msgid "Story Mode"
+msgstr "Story Mode"
+
+msgid "Story Mode contains the game's unlockable storyline."
+msgstr "Story Mode contains the game's unlockable storyline."
+
+msgid "Story Text Speed"
+msgstr "Story Text Speed"
+
+msgid "Submit to entropy"
+msgstr "Submit to entropy"
+
+msgid "Submit to resignation"
+msgstr "Submit to resignation"
+
+msgid "Submit to silence"
+msgstr "Submit to silence"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Success! Welcome to Arcaea!"
+msgstr "success! Welcome to Arcase!"
+
+msgid "Suggested by"
+msgstr "Suggested by"
+
+msgid "Summer"
+msgstr "Summer"
+
+msgid "Sunder the world, wield a miracle"
+msgstr "Sunder the world, wield a miracle"
+
+msgid "Sunset Core"
+msgstr "Sunset Core"
+
+msgid "Sync"
+msgstr "Sync"
+
+msgid "TANO*C Core"
+msgstr "TANO*C Core"
+
+msgid "Tairitsu"
+msgstr "Tairitsu"
+
+msgid "Tairitsu & Chuni Penguin"
+msgstr "Tairitsu & Chuni Penguin"
+
+msgid "Tairitsu & El Fail"
+msgstr "Tairitsu & El Fail"
+
+msgid "Tairitsu & Trin"
+msgstr "Tairitsu & Trin"
+
+msgid "Take her hand"
+msgstr "Take her hand"
+
+msgid "Tap"
+msgstr "Tap"
+
+msgid "Tap 'Sync' at the top left of your screen any time to upload all of your scores.\nOnce synchronized they can be safely restored to any new devices."
+msgstr "Tap 'Sync' at the top left of your screen any time to upload all of your scores.\nOnce synchronized they can be safely restored to any new devices."
+
+msgid "Tap Floor notes as soon as they touch the input line.\nTap the appropriate one of 4 floor lanes."
+msgstr "Tap Floor notes as soon as they touch the input line.\nTap the appropriate one of 4 floor lanes."
+
+msgid "Tap Music Play to get started playing songs."
+msgstr "Tap Music Play to get started playing songs."
+
+msgid "Tap a Partner's stats or skill to seal them.\nThis will deactivate their stats and skill."
+msgstr "Tap a Partner's stats or skill to seal them.\nThis will deactivate their stats and skill."
+
+msgid "Tap and hold long notes. Start when they reach\nthe input line and release when they have passed it."
+msgstr "Tap and hold long notes. Start when they reach\nthe input line and release when they have passed it."
+
+msgid "Tap the button once on every 3rd Beat"
+msgstr "Tap the button once on every 3rd Beat"
+
+msgid "Tap this icon to change your current Partner."
+msgstr "Tap this icon to change your current Partner."
+
+msgid "Tap to claim Tier reward"
+msgstr "Tap to claim Tier reward"
+
+msgid "Tap to obtain %@"
+msgstr "Tap to obtain %@"
+
+msgid "Tap to obtain with Memory Archive Ticket"
+msgstr "Tap to obtain with Memory Archive Ticket"
+
+msgid "Tap to purchase"
+msgstr "Tap to purchase"
+
+msgid "Tap to receive"
+msgstr "Tap to receive"
+
+msgid "Tap to receive memories for any incomplete purchases"
+msgstr "Tap to receive memories for any incomplete purchases"
+
+msgid "Tap to switch preset\nfor audio setups"
+msgstr "Tap to switch preset\nfor audio setups"
+
+msgid "Tap to switch to a different song pack."
+msgstr "Tap to switch to a different song pack."
+
+msgid "Tempest"
+msgstr "Tempest"
+
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+msgid "Thank You"
+msgstr "Thank You"
+
+msgid "Thank you for your purchase!\nYour continued support helps the Arcaea project."
+msgstr "Thank you for your purchase!\nYour continued support helps the Arcaea project."
+
+msgid "The 'Beyond Boost' gauge rises as stamina is spent in World Mode to a max of 200%.\n When enabled, the boost increases your next Beyond Chapter play progress."
+msgstr "The 'Beyond Boost' gauge rises as stamina is spent in World Mode to a max of 200%.\n When enabled, the boost increases your next Beyond Chapter play progress."
+
+msgid "The Arcaea network is currently under maintenance."
+msgstr "Arcase's server is currently under maintenance"
+
+msgid "The Lead selects a song to play."
+msgstr "The Lead selects a song to play."
+
+msgid "The battle begins again"
+msgstr "The battle begins again"
+
+msgid "The data on this device will be replaced with the cloud save."
+msgstr "The data on this device will be replaced with the cloud save."
+
+msgid "The purchase could not be completed."
+msgstr "The purchase could not be completed."
+
+msgid "The room you were invited to is no longer available."
+msgstr "The room you were invited to is no longer available."
+
+msgid "The story of Arcaea draws to a close.\n\nA choice has been made and the fate of two is sealed. Choices made cannot be undone.\n\nYou have now unlocked the ability to re-play past Anomalies\nwhen their conditions are met.\n\nAn additional story entry has been unlocked."
+msgstr "Arcase's story has come to an end.\n\nYou have made your choice, and their destinies have been determined. All the choices made are irretrievable.\n\nNow you can re-enter the past visions after meeting the corresponding conditions.\n\nA new story has been unlocked."
+
+msgid "Their Story"
+msgstr "Their Story"
+
+msgid "There are players in your room\nwho have not purchased or unlocked this song."
+msgstr "There are players in your room\nwho have not purchased or unlocked this song."
+
+msgid "There is a new version of Arcaea available. Please update."
+msgstr "There is a new version of Arcaea available. Please update."
+
+msgid "There was a problem downloading data. Please check your device's storage.\nError Code: %1@"
+msgstr "There was a problem downloading data. Please check your device's storage.\nError Code: %1@"
+
+msgid "There was a problem receiving the server response."
+msgstr "There was a problem receiving the server response."
+
+msgid "There was a problem receiving the server response.\nPlease check your progress after re-entering World Mode."
+msgstr "There was a problem receiving the server response.\nPlease check your progress after re-entering World Mode."
+
+msgid "There was a problem saving the song. Please check storage."
+msgstr "There was a problem saving the song. Please check storage."
+
+msgid "There was a problem submitting this score online."
+msgstr "There was a problem submitting this score online."
+
+msgid "This Intruder has reached maximum level."
+msgstr "This Intruder has reached maximum level."
+
+msgid "This Pack is available to obtain until 9 March 2026.\n\nOnce obtained, the Pack's contents can continue\nto be accessed after 9 March 2026."
+msgstr "This Pack is available to obtain until 9 March 2026.\n\nOnce obtained, the Pack's contents can continue\nto be accessed after 9 March 2026."
+
+msgid "This Partner has reached maximum level."
+msgstr "This Partner has reached maximum level."
+
+msgid "This Partner has reached maximum level.\nAwaken the Partner to upgrade them further."
+msgstr "This Partner has reached maximum level.\nAwaken the Partner to upgrade them further."
+
+msgid "This Partner is obtained through World Mode."
+msgstr "This Partner is obtained through World Mode."
+
+msgid "This Partner must be level 20 to awaken."
+msgstr "This Partner must be level 20 to awaken."
+
+msgid "This account is locked."
+msgstr "This account is locked."
+
+msgid "This account is not verified.\nPlease check your registered email inbox\nfor instructions on how to complete verification."
+msgstr "This account is not verified.\nPlease check your registered email inbox\nfor instructions on how to complete verification."
+
+msgid "This account registration has expired.\nPlease register a new account."
+msgstr "This account registration has expired.\nPlease register a new account."
+
+msgid "This can be adjusted at any time from settings"
+msgstr "This can be adjusted at any time from settings"
+
+msgid "This code has already been claimed."
+msgstr "This code has already been claimed."
+
+msgid "This email address is already in use."
+msgstr "This email address is already in use."
+
+msgid "This event has already ended. Your score was not submitted."
+msgstr "This event has already ended. Your score was not submitted."
+
+msgid "This event map has ended and is no longer available."
+msgstr "This event map has ended and is no longer available."
+
+msgid "This event map is currently not available!"
+msgstr "This event map is currently not available!"
+
+msgid "This feature has already been used on this device."
+msgstr "This feature has already been used on this device."
+
+msgid "This feature has been restricted for your account.\nIf you are unsure why, please contact support@lowiro.com"
+msgstr "This feature has been restricted for your account.\nIf you are unsure why, please contact support@lowiro.com"
+
+msgid "This feature is currently not available."
+msgstr "This feature is currently not available."
+
+msgid "This item is currently unavailable to purchase."
+msgstr "This item is currently unavailable to purchase."
+
+msgid "This map has already been completed!"
+msgstr "This map has already been completed!"
+
+msgid "This memory... was it always here?"
+msgstr "This memory... was it always here?"
+
+msgid "This purchase has already been completed.\nPlease attempt tapping 'Complete Purchase'\nContact support@lowiro.com if you have concerns."
+msgstr "This purchase has already been completed.\nPlease attempt tapping 'Complete Purchase'\nContact support@lowiro.com if you have concerns."
+
+msgid "This purchase requires additional steps.\nPlease attempt tapping 'Complete Purchase'\nor restarting Arcaea once complete."
+msgstr "This purchase requires additional steps.\nPlease attempt tapping 'Complete Purchase'\nor restarting Arcaea once complete."
+
+msgid "This score could not be submitted online.\nPlease restart or update Arcaea."
+msgstr "This score could not be submitted online.\nPlease restart or update Arcaea."
+
+msgid "This song is available by progressing through World Mode."
+msgstr "This song is available by progressing through World Mode."
+
+msgid "This song is available through completing Beginner Missions."
+msgstr "This song is available through completing Beginner Missions."
+
+msgid "This song is available to obtain until 9 March 2026.\n\nOnce obtained, the song can continue\nto be accessed after 9 March 2026."
+msgstr "This song is available to obtain until 9 March 2026.\n\nOnce obtained, the song can continue\nto be accessed after 9 March 2026."
+
+msgid "This song is not yet available.\nPlease check back soon!"
+msgstr "This song is not yet available.\nPlease check back soon!"
+
+msgid "This story is intended to be read after %1@ and %2@.\nFor the best experience, it is recommended to have read %1@ and %2@ before proceeding."
+msgstr "This story is intended to be read after %1@ and %2@.\nFor the best experience, it is recommended to have read %1@ and %2@ before proceeding."
+
+msgid "This story is intended to be read after %1@.\nFor the best experience, it is recommended to have read %1@ before proceeding."
+msgstr "This story is intended to be read after %1@.\nFor the best experience, it is recommended to have read %1@ before proceeding."
+
+msgid "This user does not exist."
+msgstr "This user does not exist."
+
+msgid "This user is already your friend."
+msgstr "This user is already your friend."
+
+msgid "This username is already in use."
+msgstr "This username is already in use."
+
+msgid "This version of Arcaea is preparing for release. \nPlease check back in a few minutes."
+msgstr "The current Arcase version is preparing for release\nPlease wait a few minutes"
+
+msgid "This will delete your account permanently!\nYou will be sent an email to complete the process."
+msgstr "This will delete your account permanently!\nYou will be sent an email to complete the process."
+
+msgid "Throne."
+msgstr "Throne."
+
+msgid "Tier reward has been claimed"
+msgstr "Tier reward has been claimed"
+
+msgid "Time remaining until Course abandoned"
+msgstr "Time remaining until Course abandoned"
+
+msgid "Time to next conversion:"
+msgstr "Time to next conversion:"
+
+msgid "Time up."
+msgstr "Time up."
+
+msgid "Title"
+msgstr "Title"
+
+msgid "To Main Menu"
+msgstr "To Main Menu"
+
+msgid "To World Mode"
+msgstr "To World Mode"
+
+msgid "To progress through the story, you will need to complete requirements."
+msgstr "To progress through the story, you will need to complete requirements."
+
+msgid "Toa Kozukata"
+msgstr "Toa Kozukata"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Transcend your limit"
+msgstr "Transcend your limit"
+
+msgid "Transfer your scores and unlocks to any other device\nby logging in and using the Cloud Save feature.\n\nCloud Save is not a dedicated backup feature.\nPlease only use one account per device, and\nnote that Fragments are not transferred."
+msgstr "Transfer your scores and unlocks to any other device\nby logging in and using the Cloud Save feature.\n\nCloud Save is not a dedicated backup feature.\nPlease only use one account per device, and\nnote that Fragments are not transferred."
+
+msgid "Tsumugi"
+msgstr "Tsumugi"
+
+msgid "Turns"
+msgstr "Turns"
+
+msgid "Tutorial"
+msgstr "Tutorial"
+
+msgid "Twilight"
+msgstr "Twilight"
+
+msgid "UNLOCK"
+msgstr "UNLOCK"
+
+msgid "UNiVERSE"
+msgstr "UNiVERSE"
+
+msgid "Umbral Core"
+msgstr "Umbral Core"
+
+msgid "Unavailable Offline"
+msgstr "Unavailable Offline"
+
+msgid "Unlock"
+msgstr "Unlock"
+
+msgid "Unlock %@ %2@"
+msgstr "Unlock %@ %2@"
+
+msgid "Unlock %@ by purchasing %2@"
+msgstr "Unlock %@ by purchasing %2@"
+
+msgid "Unlock %@ by purchasing the %2@ pack"
+msgstr "Unlock %@ by purchasing the %2@ pack"
+
+msgid "Unlock Conditions"
+msgstr "Unlock Conditions"
+
+msgid "Unlock Hint"
+msgstr "Unlock Hint"
+
+msgid "Unlock Requirement"
+msgstr "Unlock Requirement"
+
+msgid "Unlock [WORLD]"
+msgstr "Unlock [WORLD]"
+
+msgid "Unlock a map in 2\ndifferent World Chapters"
+msgstr "Unlock a map in 2\ndifferent World Chapters"
+
+msgid "Unlock a song\nusing fragments"
+msgstr "Unlock a song\nusing fragments"
+
+msgid "Unlock all rewards to claim Tier reward"
+msgstr "Unlock all rewards to claim Tier reward"
+
+msgid "Unlock new Partners by obtaining song packs or\nthrough World Mode."
+msgstr "Unlock new Partners by obtaining song packs or\nthrough World Mode."
+
+msgid "Unlocked by reaching Potential 9.00"
+msgstr "Unlocked by reaching Potential 9.00"
+
+msgid "Unlocked in Axiom of the End"
+msgstr "Unlocked in Axiom of the End"
+
+msgid "Unlocked in World Mode\n Chapter %@"
+msgstr "Unlocked in World Mode\n Chapter %@"
+
+msgid "Unlocked in World Mode\n Lost Chapter: Beyond"
+msgstr "Unlocked in World Mode\n Lost Chapter: Beyond"
+
+msgid "Update '%1@' Pack?"
+msgstr "Update '%1@' Pack?"
+
+msgid "Update Pack?"
+msgstr "Update Pack?"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Use Cloud Save"
+msgstr "Use Cloud Save"
+
+msgid "Use Cores to awaken Partner?"
+msgstr "Use Cores to awaken Partner?"
+
+msgid "Use Fragments"
+msgstr "Use Fragments"
+
+msgid "Use Memories"
+msgstr "Use Memories"
+
+msgid "Use Random Song to pick\na song, and clear it"
+msgstr "Use Random Song to pick\na song, and clear it"
+
+msgid "Use Warped Shard to play this course?"
+msgstr "Use Warped Shard to play this course?"
+
+msgid "Use a Partner with a\nSTEP stat over 50 to\nprogress in World Mode"
+msgstr "Use a Partner with a\nSTEP stat over 50 to\nprogress in World Mode"
+
+msgid "Use a Partner with a STEP stat over 50\nto progress in World Mode"
+msgstr "Use a Partner with a STEP stat over 50\nto progress in World Mode"
+
+msgid "Use all Milk (Current: %@). Each Milk grants\na +11% chance to gain 100 Fragments"
+msgstr "Use all Milk (Current: %@). Each Milk grants\na +11% chance to gain 100 Fragments"
+
+msgid "Use an Ether Drop to\nupgrade a Partner"
+msgstr "Use an Ether Drop to\nupgrade a Partner"
+
+msgid "Use two fingers when two Arc notes appear.\nKeep the same finger on one color of Arc note for its duration."
+msgstr "Use two fingers when two Arc notes appear.\nKeep the same finger on one color of Arc note for its duration."
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Username must be 3-15 characters a-Z 0-9"
+msgstr "Username must be 3-15 characters a-Z 0-9"
+
+msgid "Username or password incorrect."
+msgstr "Username or password incorrect."
+
+msgid "VISUAL - 'Nutritious' note appearance\nwhen playing a %2@ song"
+msgstr "VISUAL - 'Nutritious' note appearance\nwhen playing a %2@ song"
+
+msgid "VISUAL - Recollection Gauge is hidden"
+msgstr "VISUAL - Recollection Gauge is hidden"
+
+msgid "Variety"
+msgstr "Variety"
+
+msgid "Verifying files..."
+msgstr "Verifying files..."
+
+msgid "Version"
+msgstr "Version"
+
+msgid "View your Profile Card"
+msgstr "View your Profile Card"
+
+msgid "Visibility"
+msgstr "Visibility"
+
+msgid "Visual"
+msgstr "Visual"
+
+msgid "Vita"
+msgstr "Vita"
+
+msgid "Vote"
+msgstr "Vote"
+
+msgid "Voting Results"
+msgstr "Voting Results"
+
+msgid "WACCA Core"
+msgstr "WACCA Core"
+
+msgid "WARNING! Cancelling will consume\nyour Warped Shard/Stamina."
+msgstr "WARNING! Cancelling will consume\nyour Warped Shard/Stamina."
+
+msgid "WARNING! You are using a modified version of Arcaea.\nContinued use will result in the banning of your account.\nThis is a final warning."
+msgstr "Warning! You are using a modified version of Arcase.\nContinuing to use it will result in your account being banned.\nThis is the final warning."
+
+msgid "Waiting for more players to join the room."
+msgstr "Waiting for more players to join the room."
+
+msgid "Waiting for other players to finish..."
+msgstr "Waiting for other players to finish..."
+
+msgid "Waiting for others to vote..."
+msgstr "Waiting for others to vote..."
+
+msgid "Waiting for players to join..."
+msgstr "Waiting for players to join..."
+
+msgid "Waiting for the Lead's selection..."
+msgstr "Waiting for the Lead's selection..."
+
+msgid "Waiting for your vote..."
+msgstr "Waiting for your vote..."
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "Warped Shard"
+msgstr "Warped Shard"
+
+msgid "Warped Shards can be used instead of stamina to start any unlocked course.\nThey are obtained through World Mode and various means."
+msgstr "Warped Shards can be used instead of stamina to start any unlocked course.\nThey are obtained through World Mode and various means."
+
+msgid "Watch Axiom of the End\nfrom above for 4 minutes"
+msgstr "Watch Axiom of the End\nfrom above for 4 minutes"
+
+msgid "Watch the upper input area for Sky notes."
+msgstr "Watch the upper input area for Sky notes."
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Welcome to Arcaea!\nHere are the basics to get started."
+msgstr "Welcome to the rhythm source Arcase!\nLet's learn the basic operation of playing together"
+
+msgid "Welcome to Arcaea!\nPlease complete setup for best timing.\n\nYou can re-configure this later through the Settings menu."
+msgstr "Welcome to Arcase!\nPlease complete the setup to improve the time determination.\n\nYou can change this setting later on the game settings page"
+
+msgid "When 5 notes are LOST, FRAG reduced by 3\nper additional LOST note"
+msgstr "When 5 notes are LOST, FRAG reduced by 3\nper additional LOST note"
+
+msgid "When a new minute begins,\nstart and clear a song"
+msgstr "When a new minute begins,\nstart and clear a song"
+
+msgid "When enabled, players have a timed window to select songs and difficulties."
+msgstr "When enabled, players have a timed window to select songs and difficulties."
+
+msgid "When lost: woe to the strong."
+msgstr "When lost: woe to the strong."
+
+msgid "When lost: woe to the unequal."
+msgstr "When lost: woe to the unequal."
+
+msgid "When lost: woe to the unhelpful."
+msgstr "When lost: woe to the unhelpful."
+
+msgid "When set, your profile Partner will be shown to friends\nand on leaderboards. You can change or remove which Partner is set at any time."
+msgstr "When set, your profile Partner will be shown to friends\nand on leaderboards. You can change or remove which Partner is set at any time."
+
+msgid "When usurping a Partner, Lacrymira's stats will be used."
+msgstr "When usurping a Partner, Lacrymira's stats will be used."
+
+msgid "While some songs are unlocked with Fragments, others are unlocked in World Mode."
+msgstr "While some songs are unlocked with Fragments, others are unlocked in World Mode."
+
+msgid "Winter"
+msgstr "Winter"
+
+msgid "With Lacrymira's skill unlocked, she is able to usurp song plays or Track Lost events in World Mode."
+msgstr "With Lacrymira's skill unlocked, she is able to usurp song plays or Track Lost events in World Mode."
+
+msgid "With perfection or imperfection"
+msgstr "With perfection or imperfection"
+
+msgid "World"
+msgstr "World"
+
+msgid "World Boost"
+msgstr "World Boost"
+
+msgid "World Boost active.\nAll progress in World Mode increased by %@%."
+msgstr "World Boost active.\nAll progress in World Mode increased by %@%."
+
+msgid "World Mode has been overloaded.\nThe overload will clear in %@.\n\nRefilling stamina will immediately restore World Mode."
+msgstr "World Mode has been overloaded.\nThe overload will clear in %@.\n\nRefilling stamina will immediately restore World Mode."
+
+msgid "World Mode progress randomly increased\nor decreased between %2@ and %3@"
+msgstr "World Mode progress randomly increased\nor decreased between %2@ and %3@"
+
+msgid "World Overload"
+msgstr "World Overload"
+
+msgid "World progress doubled when Stamina\nis greater than or equal to 6"
+msgstr "World progress doubled when Stamina\nis greater than or equal to 6"
+
+msgid "World progress increased by\n%@ if a Fragment reward is collected"
+msgstr "World progress increased by\n%@ if a Fragment reward is collected"
+
+msgid "World progress increased by\n%@ when starting on a Restriction Step"
+msgstr "World progress increased by\n%@ when starting on a Restriction Step"
+
+msgid "World progress increased by up to 10\nbased on completed Maps in a Chapter"
+msgstr "World progress increased by up to 10\nbased on completed Maps in a Chapter"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "You already own this item."
+msgstr "You already own this item."
+
+msgid "You are Lead. Select a song..."
+msgstr "You are Lead. Select a song..."
+
+msgid "You are at the point of no return.\nProceeding will make a decision that you can not reverse."
+msgstr "You are at the point of no return.\nProceeding will make a decision that you can not reverse."
+
+msgid "You are close to the end of this map!\nAre you sure you want to activate Memory Boost?"
+msgstr "You are close to the end of this map!\nAre you sure you want to activate Memory Boost?"
+
+msgid "You are not the Lead."
+msgstr "You are not the Lead."
+
+msgid "You can also organize songs into groups by Version, Level, or Grade."
+msgstr "You can also organize songs into groups by Version, Level, or Grade."
+
+msgid "You can check this Tutorial again any time\nfrom the main menu."
+msgstr "You can check this Tutorial again any time\nfrom the main menu."
+
+msgid "You can come back any time to reread story entries you've already unlocked."
+msgstr "You can come back any time to reread story entries you've already unlocked."
+
+msgid "You can see what pack you'll need for a specific story entry by tapping on it."
+msgstr "You can see what pack you'll need for a specific story entry by tapping on it."
+
+msgid "You can't be friends with yourself ;_;"
+msgstr "You can't be friends with yourself ;_;"
+
+msgid "You cannot make a new account\nfrom this IP address today."
+msgstr "You cannot make a new account\nfrom this IP address today."
+
+msgid "You currently cannot add more friends.\nExtend your friend limit to add more."
+msgstr "You currently cannot add more friends.\nExtend your friend limit to add more."
+
+msgid "You currently have a total of %@ Fragments\n(including stacks of %2@)."
+msgstr "You currently have a total of %@ Fragments\n(including stacks of %2@)."
+
+msgid "You do not have enough Stamina."
+msgstr "You do not have enough Stamina."
+
+msgid "You do not have enough Warped Shards."
+msgstr "You do not have enough Warped Shards."
+
+msgid "You do not have enough stamina."
+msgstr "You do not have enough stamina."
+
+msgid "You have been logged out by another device.\nPlease restart Arcaea."
+msgstr "Your account has been logged in elsewhere.\nPlease restart Arcase."
+
+msgid "You have incomplete purchases pending.\nThese may require any or all of the following to be done:\n A parent to approve your purchase\n Paying for the purchase at a store\n Waiting for payment approval\nOnce the necessary steps are complete,\nplease tap \"Complete Purchase\"."
+msgstr "You have incomplete purchases pending.\nThese may require any or all of the following to be done:\n A parent to approve your purchase\n Paying for the purchase at a store\n Waiting for payment approval\nOnce the necessary steps are complete,\nplease tap \"Complete Purchase\"."
+
+msgid "You have incomplete purchases.\nPlease attempt tapping 'Complete Purchase'."
+msgstr "You have incomplete purchases.\nPlease attempt tapping 'Complete Purchase'."
+
+msgid "You have no Ether Drops. Ether Drops can be acquired\nby progressing through World Mode."
+msgstr "You have no Ether Drops. Ether Drops can be acquired\nby progressing through World Mode."
+
+msgid "You have not yet unlocked a special song in this course."
+msgstr "You have not yet unlocked a special song in this course."
+
+msgid "You have not yet unlocked all of the songs in this course."
+msgstr "You have not yet unlocked all of the songs in this course."
+
+msgid "You have reached the maximum friend limit."
+msgstr "You have reached the maximum friend limit."
+
+msgid "You may complete these requirements on any difficulty level."
+msgstr "You may complete these requirements on any difficulty level."
+
+msgid "You must be online and logged in to play Link Play.\nLog in via Network on the main menu."
+msgstr "You must be online and logged in to play Link Play.\nLog in via Network on the main menu."
+
+msgid "You must be online and logged in to unlock songs."
+msgstr "You must be online and logged in to unlock songs."
+
+msgid "You must be online and logged in to unlock songs.\nLog in via Network on the main menu."
+msgstr "You must be online and logged in to unlock songs.\nLog in via Network on the main menu."
+
+msgid "You must be online and logged in to upgrade Intruders."
+msgstr "You must be online and logged in to upgrade Intruders."
+
+msgid "You must be online and logged in to upgrade Partners."
+msgstr "You must be online and logged in to upgrade Partners."
+
+msgid "You must be online and logged into an account\nto claim mission rewards."
+msgstr "You must be online and logged into an account\nto claim mission rewards."
+
+msgid "You must complete the previous course to challenge this one."
+msgstr "You must complete the previous course to challenge this one."
+
+msgid "You must integrate %@ more Beyond to unlock this Map."
+msgstr "You must integrate %@ more Beyond to unlock this Map."
+
+msgid "You must integrate %@ more Beyonds to unlock this Map."
+msgstr "You must integrate %@ more Beyonds to unlock this Map."
+
+msgid "You must unlock the previous map to reveal this song."
+msgstr "You must unlock the previous map to reveal this song."
+
+msgid "You must unlock %@ %2@ and %3@ %4@ to engage this song."
+msgstr "You must unlock %@ %2@ and %3@ %4@ to engage this song."
+
+msgid "You must unlock %@ %2@ to engage this song."
+msgstr "You must unlock %@ %2@ to engage this song."
+
+msgid "You no longer have enough Fragments\nto use this boost."
+msgstr "You no longer have enough Fragments\nto use this boost."
+
+msgid "You were removed from the room."
+msgstr "You were removed from the room."
+
+msgid "You'll also earn Fragments to unlock more songs and difficulties."
+msgstr "You'll also earn Fragments to unlock more songs and difficulties."
+
+msgid "You've logged into over 2 devices in 24 hours.\nPlease wait %@ before using this new device."
+msgstr "You've logged into over 2 devices in 24 hours.\nPlease wait %@ before using this new device."
+
+msgid "Your account functionality is currently limited."
+msgstr "Your account functionality is currently limited."
+
+msgid "Your cloud save will be replaced with data from this device."
+msgstr "Your cloud save will be replaced with data from this device."
+
+msgid "Your email address will be used to log in"
+msgstr "Your email address will be used to log in"
+
+msgid "Your friends list is full."
+msgstr "Your friends list is full."
+
+msgid "Your gauge has not increased enough to use Beyond Boost."
+msgstr "Your gauge has not increased enough to use Beyond Boost."
+
+msgid "Your purchase has been completed successfully."
+msgstr "Your purchase has been completed successfully."
+
+msgid "Your want of fragments:\nmake that matter as well."
+msgstr "Your want of fragments:\nmake that matter as well."
+
+msgid "Youre early!"
+msgstr "Youre early!"
+
+msgid "Yume"
+msgstr "Yume"
+
+msgid "Zero"
+msgstr "Zero"
+
+msgid "[RESULT]Boosts"
+msgstr "[RESULT]Boosts"
+
+msgid "and when you are invited to Link Play."
+msgstr "Arcase will push notifications to you."
+
+msgid "arcaea_en"
+msgstr "arcaea_en"
+
+msgid "complete"
+msgstr "complete"
+
+msgid "from '%@'"
+msgstr "from '%@'"
+
+msgid "has joined the room"
+msgstr "has joined the room"
+
+msgid "has left the room"
+msgstr "has left the room"
+
+msgid "is now the Lead"
+msgstr "is now the Lead"
+
+msgid "maimai Core"
+msgstr "maimai Core"
+
+msgid "now"
+msgstr "now"
+
+msgid "or"
+msgstr "or"
+
+msgid "remain"
+msgstr "remain"
+
+msgid "song"
+msgstr "song"
+
+msgid "song pack"
+msgstr "song pack"
+
+msgid "the App Store"
+msgstr "the App Store"
+
+msgid "via Arcaea Online"
+msgstr "Benefits paid through Arcase Online"
+
+msgid "with 5th Anniversary Ticket"
+msgstr "with 5th Anniversary Ticket"
+
+msgid "x%@ Boost"
+msgstr "x%@ Boost"
+
+msgid " anomaly or  song\nwhile using "
+msgstr " anomaly or  song\nwhile using "
+
+msgid " Axiom of the end\n"
+msgstr " Axiom of the end\n"
+
+msgid " Random "
+msgstr " Random "
+
+msgid " each digit \n"
+msgstr " each digit \n"
+
+msgid "each Tairitsu\n her s Her"
+msgstr "each Tairitsu\n her s Her"
+
+msgid " LOSTs"
+msgstr " LOSTs"
+
+msgid " first song of\n"
+msgstr " first song of\n"
+
+msgid " minute begins,\n"
+msgstr " minute begins,\n"
+
+msgid " in\nInfinite Strife, "
+msgstr " in\nInfinite Strife, "
+
+msgid "\nTempest Tairitsu"
+msgstr "\nTempest Tairitsu"
+
+msgid "\nabove  Potential"
+msgstr "\nabove  Potential"
+
+msgid "\n level "
+msgstr "\n level "
+

@@ -19,6 +19,7 @@ import polib
 import random
 import requests
 import subprocess
+import time
 
 def mo_to_po(mo_file_path, po_file_path):
     try:
@@ -61,8 +62,9 @@ def get_language_code_from_filepath(path) -> str:
     return lang_code
 
 def get_translated_text(text, origin_lang, target_lang) -> str:
-    appid = '问号'
-    appkey = '问号'
+    time.sleep(1)
+    appid = ''
+    appkey = ''
     lang_code_to_baidu = {
         'en': 'en',
         'ja': 'jp',
@@ -122,7 +124,6 @@ if __name__ == "__main__":
                     f.write(f'msgstr "{key.replace("\n", "\\n").replace("\"", "\\\"")}"\n')
                     f.write('\n')
                 print(f"已自动生成 {en_po_path} 追加英文翻译！ - 具体需要硬编码修改才能使用哦！")
-
             generate_en_po = False
             po_files.append(en_po_path)
     unique_dict = {}
