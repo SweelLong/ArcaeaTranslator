@@ -23,7 +23,7 @@ import time
 
 def mo_to_po(mo_file_path, po_file_path):
     try:
-        subprocess.run([r'gettext\msgunfmt', mo_file_path, '-o', po_file_path], check=True, capture_output=True, text=True)
+        subprocess.run([r'gettext\msgunfmt', mo_file_path, '-o', po_file_path], check=True, capture_output=True, text=True, encoding="utf-8")
     except Exception as e:
         print(f"解析失败: {str(e)}")
     else:
@@ -63,8 +63,8 @@ def get_language_code_from_filepath(path) -> str:
 
 def get_translated_text(text, origin_lang, target_lang) -> str:
     time.sleep(1)
-    appid = ''
-    appkey = ''
+    appid = ' '
+    appkey = ' '
     lang_code_to_baidu = {
         'en': 'en',
         'ja': 'jp',
@@ -104,6 +104,9 @@ if __name__ == "__main__":
         os.makedirs(output_dir)
     po_files = []
     for mo_file in os.listdir(mo_dir):
+        if "en" in mo_file:
+            generate_en_po = False
+            print("已跳过en.mo文件的生成逻辑！")
         if not mo_file.endswith('.mo'):
             continue
         mo_file_path = os.path.join(mo_dir, mo_file)

@@ -121,6 +121,9 @@ msgstr "( ALL DIFFICULTIES )"
 msgid "+%@ Songs"
 msgstr "+%@ Songs"
 
+msgid ", 108."
+msgstr ", 108."
+
 msgid "- None -"
 msgstr "- None -"
 
@@ -141,6 +144,9 @@ msgstr "A Perfect Wish"
 
 msgid "A failure."
 msgstr "A failure."
+
+msgid "A final entry, a final signature."
+msgstr "A final entry, a final signature."
 
 msgid "A network error has occurred.\nPlease re-enter Axiom of the End."
 msgstr "A network error has occurred.\nPlease re-enter Axiom of the End."
@@ -310,6 +316,9 @@ msgstr "An account has already been made from this device."
 msgid "An account registration is already pending for this device.\nStart a new registration?"
 msgstr "An account registration is already pending for this device.\nStart a new registration?"
 
+msgid "An account with this email address already exists.\nPlease log in to your existing account to link it with %@."
+msgstr "An account with this email address already exists.\nPlease log in to your existing account to link it with %@."
+
 msgid "An email with a verification link has been\nsent to your registered email address.\nTo complete account verification, please\nfollow the instructions outlined in this email."
 msgstr "An email with a verification link has been\nsent to your registered email address.\nTo complete account verification, please\nfollow the instructions outlined in this email."
 
@@ -333,6 +342,9 @@ msgstr "And now, the end"
 
 msgid "Apophenia"
 msgstr "Apophenia"
+
+msgid "Apple"
+msgstr "Apple"
 
 msgid "Apply yourself. You understand \"value\" best, don't you?\nEach song you remember has been assigned a value. Remember their worth.\n\n\nBring them here and with their values, answer.\nDo not delay.\n"
 msgstr "Apply yourself. You understand \"value\" best, don't you?\nEach song you remember has been assigned a value. Remember their worth.\n\n\nBring them here and with their values, answer.\nDo not delay.\n"
@@ -1003,6 +1015,9 @@ msgstr "Earn up to 20 Fragments based on\nnumber of notes hit"
 msgid "Easy"
 msgstr "Easy"
 
+msgid "Eclipse"
+msgstr "Eclipse"
+
 msgid "Elapsed time: %@"
 msgstr "Elapsed time: %@"
 
@@ -1075,6 +1090,9 @@ msgstr "Evanescent Domain"
 msgid "Event"
 msgstr "Event"
 
+msgid "Existing Account Found"
+msgstr "Existing Account Found"
+
 msgid "Experience Aegleseeker"
 msgstr "Experience Aegleseeker"
 
@@ -1083,6 +1101,9 @@ msgstr "Experience Arghena"
 
 msgid "Experience Designant."
 msgstr "Experience Designant."
+
+msgid "Experience Undying Macula"
+msgstr "Experience Undying Macula"
 
 msgid "Expires in %@"
 msgstr "Expires in %@"
@@ -1126,6 +1147,9 @@ msgstr "FREE TO PLAY"
 msgid "Face the songs you have already confronted and find a way forward."
 msgstr "Face the songs you have already confronted and find a way forward."
 
+msgid "Facebook"
+msgstr "Facebook"
+
 msgid "Failed to get the latest content information.\nPlease check your internet connection. Error Code: %1@"
 msgstr "Failed to get the latest content information.\nPlease check your internet connection. Error Code: %1@"
 
@@ -1141,11 +1165,20 @@ msgstr "Fatalis"
 msgid "Favorite each Tairitsu,\nclear Her song with Her"
 msgstr "Favorite each Tairitsu,\nclear Her song with Her"
 
+msgid "Find the entries of her journal"
+msgstr "Find the entries of her journal"
+
 msgid "Find the new Map in Chapter 5 of World Mode"
 msgstr "Find the new Map in Chapter 5 of World Mode"
 
 msgid "Find the path to a different future"
 msgstr "Find the path to a different future"
+
+msgid "Find the place she caught someone's eye, and where she was taken into another world."
+msgstr "Find the place she caught someone's eye, and where she was taken into another world."
+
+msgid "Find the woman who took her to another world."
+msgstr "Find the woman who took her to another world."
 
 msgid "Finish"
 msgstr "Finish"
@@ -1164,6 +1197,9 @@ msgstr "Finish a song with a Partner fragment multipler\nof 1.2x or more"
 
 msgid "Follow the movement of Arc notes\nby moving your finger left or right."
 msgstr "Follow the movement of Arc notes\nby moving your finger left or right."
+
+msgid "For the one who might find this: I'll write down all that I know, for you."
+msgstr "For the one who might find this: I'll write down all that I know, for you."
 
 msgid "Forgot Password?"
 msgstr "Forgot Password?"
@@ -1267,6 +1303,9 @@ msgstr "Go to Pack"
 msgid "Good luck in the upper levels of Arcaea!"
 msgstr "Good luck in Arcase's advanced difficulty!"
 
+msgid "Google"
+msgstr "Google"
+
 msgid "Google Play"
 msgstr "Google Play"
 
@@ -1283,7 +1322,7 @@ msgid "Graphics Quality"
 msgstr "Graphics Quality"
 
 msgid "Graphics Quality has been set to Lower for improved\nperformance. This can be changed at any time from Settings."
-msgstr "Hi, welcome back~\nThe entire development team of Arcase wishes everyone a happy National Day!\nThe kernel version has been updated to v6.9.0\nOther language packs are machine translated, please use Simplified Chinese!\nPlease check your QQ group for more information in a timely manner!\nCopyright 2025  ©  NulCorePivot"
+msgstr "Hi, welcome back~\nThe entire development team of Arcase wishes everyone a happy National Day!\nThe kernel version has been updated to v6.9.0\nOther language packs are machine translated, please use Simplified Chinese!\nPlease check your QQ group for more information in a timely manner!\nCopyright 2025    NulCorePivot"
 
 msgid "Grievous Lady"
 msgstr "Grievous Lady"
@@ -1384,6 +1423,9 @@ msgstr "Haruna"
 msgid "Have their Stories align (15-6 | 16-6)"
 msgstr "Have their Stories align (15-6 | 16-6)"
 
+msgid "Her old self is something she can hardly recall. Find and treasure a song of that reflection."
+msgstr "Her old self is something she can hardly recall. Find and treasure a song of that reflection."
+
 msgid "Her power is currently restrained.\nInsight cannot usurp Partners' World plays."
 msgstr "Her power is currently restrained.\nInsight cannot usurp Partners' World plays."
 
@@ -1434,6 +1476,9 @@ msgstr "Horizon of Anamnesis"
 
 msgid "I Agree"
 msgstr "I Agree"
+
+msgid "I can certainly confirm it by now: the flow of time from here and in relation to Arcaea\nseems to be strange. It reminds me of time dilation."
+msgstr "I can certainly confirm it by now: the flow of time from here and in relation to Arcaea\nseems to be strange. It reminds me of time dilation."
 
 msgid "ID must be 9 digits."
 msgstr "ID must be 9 digits."
@@ -1542,6 +1587,9 @@ msgstr "Invited '%@' to Link Play."
 
 msgid "Isabelle"
 msgstr "Isabelle"
+
+msgid "It is a complete certainty that I died. I know what I feel, and I know that it was my fault."
+msgstr "It is a complete certainty that I died. I know what I feel, and I know that it was my fault."
 
 msgid "It's time to introduce Arcaea's advanced note types."
 msgstr "Now, let's get to know Arcase's advanced notes"
@@ -1752,6 +1800,15 @@ msgstr "Maximum level 20 > 30"
 
 msgid "Maya"
 msgstr "Maya"
+
+msgid "Maya, 1."
+msgstr "Maya, 1."
+
+msgid "Maya, 42."
+msgstr "Maya, 42."
+
+msgid "Maya, 8."
+msgstr "Maya, 8."
 
 msgid "Memories"
 msgstr "Memories"
@@ -2257,6 +2314,9 @@ msgstr "Private"
 msgid "Proceed"
 msgstr "Proceed"
 
+msgid "Proceed[MACULA]"
+msgstr "Proceed[MACULA]"
+
 msgid "Profile"
 msgstr "Profile"
 
@@ -2353,6 +2413,9 @@ msgstr "Read '18-6'"
 msgid "Read VS-6 to Unlock"
 msgstr "Read VS-6 to Unlock"
 
+msgid "Recall"
+msgstr "Recall"
+
 msgid "Recall Emotions. Each Emotion\nboosts an aspect of Ilith & Ivy by +10"
 msgstr "Recall Emotions. Each Emotion\nboosts an aspect of Ilith & Ivy by +10"
 
@@ -2361,6 +2424,9 @@ msgstr "Receive a notification\nwhen stamina is full"
 
 msgid "Receive notifications\nwhen invited to Link Play"
 msgstr "Receive notifications\nwhen invited to Link Play"
+
+msgid "Recollection Gauge and OVER reduced by 1\nfor every 2 FAR notes"
+msgstr "Recollection Gauge and OVER reduced by 1\nfor every 2 FAR notes"
 
 msgid "Recollection Gauge measures Grade\n(Track Lost on Grade A or below)"
 msgstr "Recollection Gauge measures Grade\n(Track Lost on Grade A or below)"
@@ -2373,6 +2439,9 @@ msgstr "Recollection Gauge set to 0 for LOST notes"
 
 msgid "Recollection Gauge starts at %@%\nRecollection Rate gain reduced to %2@%"
 msgstr "Recollection Gauge starts at %@%\nRecollection Rate gain reduced to %2@%"
+
+msgid "Recollection Rate at 1/4 song progress\nis converted to stat bonus"
+msgstr "Recollection Rate at 1/4 song progress\nis converted to stat bonus"
 
 msgid "Recollection Rate gain increased,\nbut decreases with song progress"
 msgstr "Recollection Rate gain increased,\nbut decreases with song progress"
@@ -2926,6 +2995,9 @@ msgstr "Terms of Service"
 msgid "Thank You"
 msgstr "Thank You"
 
+msgid "Thank you for calling back to me."
+msgstr "Thank you for calling back to me."
+
 msgid "Thank you for your purchase!\nYour continued support helps the Arcaea project."
 msgstr "Thank you for your purchase!\nYour continued support helps the Arcaea project."
 
@@ -3306,6 +3378,9 @@ msgstr "Waiting for the Lead's selection..."
 
 msgid "Waiting for your vote..."
 msgstr "Waiting for your vote..."
+
+msgid "Wanderer"
+msgstr "Wanderer"
 
 msgid "Warning"
 msgstr "Warning"
